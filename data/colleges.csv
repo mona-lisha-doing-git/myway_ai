@@ -1,0 +1,501 @@
+college_id,college_name,college_type,ownership,nirf_rank,city,state,country,established_year,campus_size_acres,hostel_available,scholarship_available,website,latitude,longitude
+CLG0001,Indian Institute of Technology Kharagpur,Engineering,Government,5,Kharagpur,West Bengal,India,1951,2100,Yes,Yes,https://www.iitkgp.ac.in,22.346,87.232
+CLG0002,Indian Institute of Technology Bombay,Engineering,Government,3,Mumbai,Maharashtra,India,1958,550,Yes,Yes,https://www.iitb.ac.in,19.076,72.8777
+CLG0003,Indian Institute of Technology Madras,Engineering,Government,1,Chennai,Tamil Nadu,India,1959,617,Yes,Yes,https://www.iitm.ac.in,13.0827,80.2707
+CLG0004,Indian Institute of Technology Kanpur,Engineering,Government,4,Kanpur,Uttar Pradesh,India,1959,1055,Yes,Yes,https://www.iitk.ac.in,26.4499,80.3319
+CLG0005,Indian Institute of Technology Delhi,Engineering,Government,2,New Delhi,Delhi,India,1961,320,Yes,Yes,https://home.iitd.ac.in,28.6139,77.209
+CLG0006,Indian Institute of Technology Guwahati,Engineering,Government,7,Guwahati,Assam,India,1994,715,Yes,Yes,https://www.iitg.ac.in,26.1445,91.7362
+CLG0007,Indian Institute of Technology Roorkee,Engineering,Government,6,Roorkee,Uttarakhand,India,1847,365,Yes,Yes,https://www.iitr.ac.in,29.8543,77.888
+CLG0008,Indian Institute of Technology Ropar,Engineering,Government,27,Rupnagar,Punjab,India,2008,501,Yes,Yes,https://www.iitrpr.ac.in,30.9668,76.5262
+CLG0009,Indian Institute of Technology Bhubaneswar,Engineering,Government,21,Bhubaneswar,Odisha,India,2008,936,Yes,Yes,https://www.iitbbs.ac.in,20.2961,85.8245
+CLG0010,Indian Institute of Technology Gandhinagar,Engineering,Government,28,Gandhinagar,Gujarat,India,2008,400,Yes,Yes,https://iitgn.ac.in,23.2156,72.6369
+CLG0011,Indian Institute of Technology Hyderabad,Engineering,Government,8,Hyderabad,Telangana,India,2008,576,Yes,Yes,https://www.iith.ac.in,17.385,78.4867
+CLG0012,Indian Institute of Technology Jodhpur,Engineering,Government,19,Jodhpur,Rajasthan,India,2008,852,Yes,Yes,https://www.iitj.ac.in,26.2389,73.0243
+CLG0013,Indian Institute of Technology Patna,Engineering,Government,29,Patna,Bihar,India,2008,500,Yes,Yes,https://www.iitp.ac.in,25.5941,85.1376
+CLG0014,Indian Institute of Technology Indore,Engineering,Government,15,Indore,Madhya Pradesh,India,2009,509,Yes,Yes,https://www.iiti.ac.in,22.7196,75.8577
+CLG0015,Indian Institute of Technology Mandi,Engineering,Government,33,Mandi,Himachal Pradesh,India,2009,552,Yes,Yes,https://www.iitmandi.ac.in,31.7084,76.9319
+CLG0016,Indian Institute of Technology (BHU) Varanasi,Engineering,Government,13,Varanasi,Uttar Pradesh,India,1919,1300,Yes,Yes,https://www.iitbhu.ac.in,25.3176,82.9739
+CLG0017,Indian Institute of Technology Palakkad,Engineering,Government,67,Palakkad,Kerala,India,2015,500,Yes,Yes,https://www.iitpkd.ac.in,10.7867,76.6548
+CLG0018,Indian Institute of Technology Tirupati,Engineering,Government,61,Tirupati,Andhra Pradesh,India,2015,548,Yes,Yes,https://www.iittp.ac.in,13.6288,79.4192
+CLG0019,Indian Institute of Technology (ISM) Dhanbad,Engineering,Government,17,Dhanbad,Jharkhand,India,1926,246,Yes,Yes,https://www.iitism.ac.in,23.7957,86.4304
+CLG0020,Indian Institute of Technology Bhilai,Engineering,Government,NULL,Bhilai,Chhattisgarh,India,2016,395,Yes,Yes,https://www.iitbhilai.ac.in,21.1938,81.3509
+CLG0021,Indian Institute of Technology Goa,Engineering,Government,NULL,Ponda,Goa,India,2016,150,Yes,Yes,https://www.iitgoa.ac.in,15.4027,74.0078
+CLG0022,Indian Institute of Technology Jammu,Engineering,Government,NULL,Jammu,Jammu and Kashmir,India,2016,317,Yes,Yes,https://www.iitjammu.ac.in,32.7266,74.857
+CLG0023,Indian Institute of Technology Dharwad,Engineering,Government,NULL,Dharwad,Karnataka,India,2016,470,Yes,Yes,https://www.iitdh.ac.in,15.4589,75.0078
+CLG0024,National Institute of Technology Tiruchirappalli,Engineering,Government,9,Tiruchirappalli,Tamil Nadu,India,1964,800,Yes,Yes,https://www.nitt.edu,10.7905,78.7047
+CLG0025,National Institute of Technology Karnataka Surathkal,Engineering,Government,14,Mangaluru,Karnataka,India,1960,295,Yes,Yes,https://www.nitk.ac.in,12.9141,74.856
+CLG0026,National Institute of Technology Rourkela,Engineering,Government,16,Rourkela,Odisha,India,1961,530,Yes,Yes,https://www.nitrkl.ac.in,22.2604,84.8536
+CLG0027,National Institute of Technology Warangal,Engineering,Government,20,Warangal,Telangana,India,1959,248,Yes,Yes,https://www.nitw.ac.in,17.9784,79.6003
+CLG0028,Visvesvaraya National Institute of Technology Nagpur,Engineering,Government,47,Nagpur,Maharashtra,India,1960,214,Yes,Yes,https://vnit.ac.in,21.1458,79.0882
+CLG0029,National Institute of Technology Calicut,Engineering,Government,23,Kozhikode,Kerala,India,1961,300,Yes,Yes,https://www.nitc.ac.in,11.2588,75.7804
+CLG0030,Malaviya National Institute of Technology Jaipur,Engineering,Government,34,Jaipur,Rajasthan,India,1963,321,Yes,Yes,https://www.mnit.ac.in,26.9124,75.7873
+CLG0031,National Institute of Technology Durgapur,Engineering,Government,65,Durgapur,West Bengal,India,1960,190,Yes,Yes,https://www.nitdgp.ac.in,23.5204,87.3119
+CLG0032,Motilal Nehru National Institute of Technology Allahabad,Engineering,Government,56,Prayagraj,Uttar Pradesh,India,1961,192,Yes,Yes,https://www.mnnit.ac.in,25.4358,81.8463
+CLG0033,Sardar Vallabhbhai National Institute of Technology Surat,Engineering,Government,46,Surat,Gujarat,India,1961,247,Yes,Yes,https://www.svnit.ac.in,21.1702,72.8311
+CLG0034,National Institute of Technology Kurukshetra,Engineering,Government,57,Kurukshetra,Haryana,India,1963,325,Yes,Yes,https://www.nitkkr.ac.in,29.9695,76.8783
+CLG0035,National Institute of Technology Silchar,Engineering,Government,78,Silchar,Assam,India,1967,300,Yes,Yes,https://www.nits.ac.in,24.8333,92.7789
+CLG0036,National Institute of Technology Hamirpur,Engineering,Government,92,Hamirpur,Himachal Pradesh,India,1986,90,Yes,Yes,https://www.nith.ac.in,31.6861,76.5217
+CLG0037,National Institute of Technology Jalandhar,Engineering,Government,70,Jalandhar,Punjab,India,1987,154,Yes,Yes,https://www.nitj.ac.in,31.326,75.5762
+CLG0038,National Institute of Technology Patna,Engineering,Government,103,Patna,Bihar,India,1886,19,Yes,Yes,https://www.nitp.ac.in,25.5941,85.1376
+CLG0039,National Institute of Technology Raipur,Engineering,Government,100,Raipur,Chhattisgarh,India,1956,200,Yes,Yes,https://www.nitrr.ac.in,21.2514,81.6296
+CLG0040,National Institute of Technology Agartala,Engineering,Government,NULL,Agartala,Tripura,India,1965,275,Yes,Yes,https://www.nita.ac.in,23.8315,91.2868
+CLG0041,National Institute of Technology Meghalaya,Engineering,Government,NULL,Shillong,Meghalaya,India,2010,110,Yes,Yes,https://www.nitm.ac.in,25.5788,91.8933
+CLG0042,National Institute of Technology Manipur,Engineering,Government,NULL,Imphal,Manipur,India,2010,200,Yes,Yes,https://www.nitmanipur.ac.in,24.817,93.9368
+CLG0043,National Institute of Technology Mizoram,Engineering,Government,NULL,Aizawl,Mizoram,India,2010,82,Yes,Yes,https://www.nitmz.ac.in,23.7271,92.7176
+CLG0044,National Institute of Technology Nagaland,Engineering,Government,NULL,Dimapur,Nagaland,India,2010,60,Yes,Yes,https://www.nitnagaland.ac.in,25.9091,93.7266
+CLG0045,National Institute of Technology Sikkim,Engineering,Government,NULL,Ravangla,Sikkim,India,2010,79,Yes,Yes,https://www.nitsikkim.ac.in,27.3167,88.3667
+CLG0046,National Institute of Technology Arunachal Pradesh,Engineering,Government,NULL,Yupia,Arunachal Pradesh,India,2010,68,Yes,Yes,https://www.nitap.ac.in,27.1167,93.65
+CLG0047,National Institute of Technology Uttarakhand,Engineering,Government,NULL,Srinagar,Uttarakhand,India,2009,42,Yes,Yes,https://www.nituk.ac.in,34.0837,74.7973
+CLG0048,National Institute of Technology Delhi,Engineering,Government,NULL,New Delhi,Delhi,India,2010,10,Yes,Yes,https://www.nitdelhi.ac.in,28.6139,77.209
+CLG0049,National Institute of Technology Goa,Engineering,Government,NULL,Ponda,Goa,India,2010,90,Yes,Yes,https://www.nitgoa.ac.in,15.4027,74.0078
+CLG0050,National Institute of Technology Puducherry,Engineering,Government,NULL,Karaikal,Puducherry,India,2010,46,Yes,Yes,https://www.nitpy.ac.in,10.9254,79.838
+CLG0051,National Institute of Technology Andhra Pradesh,Engineering,Government,NULL,Tadepalligudem,Andhra Pradesh,India,2015,150,Yes,Yes,https://www.nitandhra.ac.in,16.8138,81.5245
+CLG0052,Maulana Azad National Institute of Technology Bhopal,Engineering,Government,45,Bhopal,Madhya Pradesh,India,1960,650,Yes,Yes,https://www.manit.ac.in,23.2599,77.4126
+CLG0053,Dr. B R Ambedkar National Institute of Technology Jalandhar,Engineering,Government,70,Jalandhar,Punjab,India,1987,154,Yes,Yes,https://www.nitj.ac.in,31.326,75.5762
+CLG0054,National Institute of Technology Srinagar,Engineering,Government,NULL,Srinagar,Jammu and Kashmir,India,1960,138,Yes,Yes,https://www.nitsri.ac.in,34.0837,74.7973
+CLG0055,Indian Institute of Information Technology Allahabad,Engineering,Government,70,Prayagraj,Uttar Pradesh,India,1999,100,Yes,Yes,https://www.iiita.ac.in,25.4358,81.8463
+CLG0056,Indian Institute of Information Technology Gwalior,Engineering,Government,NULL,Gwalior,Madhya Pradesh,India,1997,259,Yes,Yes,https://www.iiitm.ac.in,26.2183,78.1828
+CLG0057,Indian Institute of Information Technology Design and Manufacturing Jabalpur,Engineering,Government,NULL,Jabalpur,Madhya Pradesh,India,2005,180,Yes,Yes,https://www.iiitdmj.ac.in,23.1815,79.9864
+CLG0058,Indian Institute of Information Technology Design and Manufacturing Kancheepuram,Engineering,Government,93,Kancheepuram,Tamil Nadu,India,2007,120,Yes,Yes,https://www.iiitdm.ac.in,12.8342,79.7036
+CLG0059,International Institute of Information Technology Hyderabad,Engineering,Deemed,47,Hyderabad,Telangana,India,1998,66,Yes,Yes,https://www.iiit.ac.in,17.385,78.4867
+CLG0060,International Institute of Information Technology Bangalore,Engineering,Deemed,NULL,Bengaluru,Karnataka,India,1999,10,Yes,Yes,https://www.iiitb.ac.in,12.9716,77.5946
+CLG0061,Indian Institute of Information Technology Kota,Engineering,Government,NULL,Kota,Rajasthan,India,2013,50,Yes,Yes,https://www.iiitkota.ac.in,25.2138,75.8648
+CLG0062,Indian Institute of Information Technology Vadodara,Engineering,Government,NULL,Vadodara,Gujarat,India,2013,50,Yes,Yes,https://www.iiitvadodara.ac.in,22.3072,73.1812
+CLG0063,Indian Institute of Information Technology Guwahati,Engineering,Government,NULL,Guwahati,Assam,India,2013,50,Yes,Yes,https://www.iiitg.ac.in,26.1445,91.7362
+CLG0064,Indian Institute of Information Technology Una,Engineering,Government,NULL,Una,Himachal Pradesh,India,2014,64,Yes,Yes,https://www.iiitu.ac.in,31.4685,76.2708
+CLG0065,Indian Institute of Information Technology Sri City,Engineering,Government,NULL,Sri City,Andhra Pradesh,India,2013,50,Yes,Yes,https://www.iiits.ac.in,13.6333,80.0333
+CLG0066,Indian Institute of Information Technology Nagpur,Engineering,Government,NULL,Nagpur,Maharashtra,India,2016,50,Yes,Yes,https://www.iiitn.ac.in,21.1458,79.0882
+CLG0067,Indian Institute of Information Technology Pune,Engineering,Government,NULL,Pune,Maharashtra,India,2016,42,Yes,Yes,https://www.iiitp.ac.in,18.5204,73.8567
+CLG0068,Indian Institute of Information Technology Kalyani,Engineering,Government,NULL,Kalyani,West Bengal,India,2014,45,Yes,Yes,https://www.iiitkalyani.ac.in,22.975,88.434
+CLG0069,Indian Institute of Information Technology Ranchi,Engineering,Government,NULL,Ranchi,Jharkhand,India,2016,40,Yes,Yes,https://www.iiitranchi.ac.in,23.3441,85.3096
+CLG0070,Indian Institute of Information Technology Kottayam,Engineering,Government,NULL,Kottayam,Kerala,India,2015,40,Yes,Yes,https://www.iiitkottayam.ac.in,9.5916,76.5222
+CLG0071,Indian Institute of Information Technology Lucknow,Engineering,Government,NULL,Lucknow,Uttar Pradesh,India,2015,25,Yes,Yes,https://www.iiitl.ac.in,26.8467,80.9462
+CLG0072,Indian Institute of Information Technology Bhopal,Engineering,Government,NULL,Bhopal,Madhya Pradesh,India,2015,20,Yes,Yes,https://www.iiitbhopal.ac.in,23.2599,77.4126
+CLG0073,Indian Institute of Information Technology Surat,Engineering,Government,NULL,Surat,Gujarat,India,2015,25,Yes,Yes,https://www.iiitsurat.ac.in,21.1702,72.8311
+CLG0074,Indian Institute of Information Technology Bhagalpur,Engineering,Government,NULL,Bhagalpur,Bihar,India,2017,50,Yes,Yes,https://www.iiitbh.ac.in,25.2425,86.9842
+CLG0075,Indian Institute of Information Technology Dharwad,Engineering,Government,NULL,Dharwad,Karnataka,India,2015,65,Yes,Yes,https://www.iiitdwd.ac.in,15.4589,75.0078
+CLG0076,Indian Institute of Information Technology Manipur,Engineering,Government,NULL,Imphal,Manipur,India,2015,10,Yes,Yes,https://www.iiitmanipur.ac.in,24.817,93.9368
+CLG0077,Indian Institute of Information Technology Raichur,Engineering,Government,NULL,Raichur,Karnataka,India,2017,10,Yes,Yes,https://www.iiitr.ac.in,16.2076,77.3463
+CLG0078,Indian Institute of Information Technology Agartala,Engineering,Government,NULL,Agartala,Tripura,India,2018,10,Yes,Yes,https://www.iiitagartala.ac.in,23.8315,91.2868
+CLG0079,Indian Institute of Information Technology Tiruchirappalli,Engineering,Government,NULL,Tiruchirappalli,Tamil Nadu,India,2013,20,Yes,Yes,https://www.iiitt.ac.in,10.7905,78.7047
+CLG0080,Indian Institute of Management Ahmedabad,Management,Government,1,Ahmedabad,Gujarat,India,1961,68,Yes,Yes,https://www.iima.ac.in,23.0225,72.5714
+CLG0081,Indian Institute of Management Bangalore,Management,Government,2,Bengaluru,Karnataka,India,1973,100,Yes,Yes,https://www.iimb.ac.in,12.9716,77.5946
+CLG0082,Indian Institute of Management Kozhikode,Management,Government,4,Kozhikode,Kerala,India,1996,100,Yes,Yes,https://www.iimk.ac.in,11.2588,75.7804
+CLG0083,Indian Institute of Management Calcutta,Management,Government,3,Kolkata,West Bengal,India,1961,135,Yes,Yes,https://www.iimcal.ac.in,22.5726,88.3639
+CLG0084,Indian Institute of Management Lucknow,Management,Government,5,Lucknow,Uttar Pradesh,India,1984,200,Yes,Yes,https://www.iiml.ac.in,26.8467,80.9462
+CLG0085,Indian Institute of Management Indore,Management,Government,6,Indore,Madhya Pradesh,India,1996,193,Yes,Yes,https://www.iimidr.ac.in,22.7196,75.8577
+CLG0086,Indian Institute of Management Udaipur,Management,Government,13,Udaipur,Rajasthan,India,2011,318,Yes,Yes,https://www.iimu.ac.in,24.5854,73.7125
+CLG0087,Indian Institute of Management Raipur,Management,Government,15,Raipur,Chhattisgarh,India,2010,90,Yes,Yes,https://www.iimraipur.ac.in,21.2514,81.6296
+CLG0088,Indian Institute of Management Rohtak,Management,Government,17,Rohtak,Haryana,India,2010,200,Yes,Yes,https://www.iimrohtak.ac.in,28.8955,76.6066
+CLG0089,Indian Institute of Management Ranchi,Management,Government,21,Ranchi,Jharkhand,India,2010,150,Yes,Yes,https://www.iimranchi.ac.in,23.3441,85.3096
+CLG0090,Indian Institute of Management Trichy,Management,Government,19,Tiruchirappalli,Tamil Nadu,India,2011,187,Yes,Yes,https://www.iimtrichy.ac.in,10.7905,78.7047
+CLG0091,Indian Institute of Management Kashipur,Management,Government,29,Kashipur,Uttarakhand,India,2011,158,Yes,Yes,https://www.iimkashipur.ac.in,29.214,78.9494
+CLG0092,Indian Institute of Management Shillong,Management,Government,34,Shillong,Meghalaya,India,2007,15,Yes,Yes,https://www.iimshillong.ac.in,25.5788,91.8933
+CLG0093,Indian Institute of Management Nagpur,Management,Government,24,Nagpur,Maharashtra,India,2015,60,Yes,Yes,https://www.iimnagpur.ac.in,21.1458,79.0882
+CLG0094,Indian Institute of Management Visakhapatnam,Management,Government,28,Visakhapatnam,Andhra Pradesh,India,2015,325,Yes,Yes,https://www.iimv.ac.in,17.6868,83.2185
+CLG0095,Indian Institute of Management Bodh Gaya,Management,Government,42,Bodh Gaya,Bihar,India,2015,42,Yes,Yes,https://www.iimbg.ac.in,24.6961,84.9911
+CLG0096,Indian Institute of Management Amritsar,Management,Government,41,Amritsar,Punjab,India,2015,20,Yes,Yes,https://www.iimamritsar.ac.in,31.634,74.8723
+CLG0097,Indian Institute of Management Sambalpur,Management,Government,NULL,Sambalpur,Odisha,India,2015,50,Yes,Yes,https://www.iimsambalpur.ac.in,21.4669,83.9812
+CLG0098,Indian Institute of Management Sirmaur,Management,Government,NULL,Sirmaur,Himachal Pradesh,India,2015,40,Yes,Yes,https://www.iimsirmaur.ac.in,30.5667,77.2833
+CLG0099,Indian Institute of Management Jammu,Management,Government,NULL,Jammu,Jammu and Kashmir,India,2016,45,Yes,Yes,https://www.iimj.ac.in,32.7266,74.857
+CLG0100,Indian Institute of Management Mumbai (erstwhile NITIE),Management,Government,NULL,Mumbai,Maharashtra,India,1963,45,Yes,Yes,https://www.nitie.ac.in,19.076,72.8777
+CLG0101,All India Institute of Medical Sciences New Delhi,Medical,Government,1,New Delhi,Delhi,India,1956,183,Yes,Yes,https://www.aiims.edu,28.6139,77.209
+CLG0102,All India Institute of Medical Sciences Jodhpur,Medical,Government,8,Jodhpur,Rajasthan,India,2012,213,Yes,Yes,https://www.aiimsjodhpur.edu.in,26.2389,73.0243
+CLG0103,All India Institute of Medical Sciences Bhopal,Medical,Government,11,Bhopal,Madhya Pradesh,India,2012,200,Yes,Yes,https://www.aiimsbhopal.edu.in,23.2599,77.4126
+CLG0104,All India Institute of Medical Sciences Bhubaneswar,Medical,Government,9,Bhubaneswar,Odisha,India,2012,175,Yes,Yes,https://www.aiimsbhubaneswar.nic.in,20.2961,85.8245
+CLG0105,All India Institute of Medical Sciences Rishikesh,Medical,Government,13,Rishikesh,Uttarakhand,India,2012,120,Yes,Yes,https://www.aiimsrishikesh.edu.in,30.0869,78.2676
+CLG0106,All India Institute of Medical Sciences Patna,Medical,Government,17,Patna,Bihar,India,2012,145,Yes,Yes,https://www.aiimspatna.edu.in,25.5941,85.1376
+CLG0107,All India Institute of Medical Sciences Raipur,Medical,Government,22,Raipur,Chhattisgarh,India,2012,200,Yes,Yes,https://www.aiimsraipur.edu.in,21.2514,81.6296
+CLG0108,All India Institute of Medical Sciences Nagpur,Medical,Government,NULL,Nagpur,Maharashtra,India,2018,150,Yes,Yes,https://www.aiimsnagpur.edu.in,21.1458,79.0882
+CLG0109,All India Institute of Medical Sciences Mangalagiri,Medical,Government,NULL,Mangalagiri,Andhra Pradesh,India,2018,200,Yes,Yes,https://www.aiimsmangalagiri.edu.in,16.4307,80.5525
+CLG0110,All India Institute of Medical Sciences Gorakhpur,Medical,Government,NULL,Gorakhpur,Uttar Pradesh,India,2019,112,Yes,Yes,https://www.aiimsgorakhpur.edu.in,26.7606,83.3732
+CLG0111,All India Institute of Medical Sciences Kalyani,Medical,Government,NULL,Kalyani,West Bengal,India,2019,180,Yes,Yes,https://www.aiimskalyani.edu.in,22.975,88.434
+CLG0112,All India Institute of Medical Sciences Rae Bareli,Medical,Government,NULL,Rae Bareli,Uttar Pradesh,India,2013,100,Yes,Yes,https://www.aiimsraebareli.edu.in,26.2309,81.2338
+CLG0113,All India Institute of Medical Sciences Bathinda,Medical,Government,NULL,Bathinda,Punjab,India,2019,175,Yes,Yes,https://www.aiimsbathinda.edu.in,30.211,74.9455
+CLG0114,All India Institute of Medical Sciences Deoghar,Medical,Government,NULL,Deoghar,Jharkhand,India,2019,150,Yes,Yes,https://www.aiimsdeoghar.edu.in,24.4842,86.6947
+CLG0115,All India Institute of Medical Sciences Bibinagar,Medical,Government,NULL,Bibinagar,Telangana,India,2019,200,Yes,Yes,https://www.aiimsbibinagar.edu.in,17.4667,78.8333
+CLG0116,All India Institute of Medical Sciences Guwahati,Medical,Government,NULL,Guwahati,Assam,India,2017,200,Yes,Yes,https://www.aiimsguwahati.ac.in,26.1445,91.7362
+CLG0117,National Law School of India University,Law,Government,1,Bengaluru,Karnataka,India,1987,23,Yes,Yes,https://www.nls.ac.in,12.9716,77.5946
+CLG0118,NALSAR University of Law,Law,Government,3,Hyderabad,Telangana,India,1998,60,Yes,Yes,https://www.nalsar.ac.in,17.385,78.4867
+CLG0119,National Law University Delhi,Law,Government,4,New Delhi,Delhi,India,2008,15,Yes,Yes,https://nludelhi.ac.in,28.6139,77.209
+CLG0120,The West Bengal National University of Juridical Sciences,Law,Government,2,Kolkata,West Bengal,India,1999,7,Yes,Yes,https://www.nujs.edu,22.5726,88.3639
+CLG0121,National Law Institute University Bhopal,Law,Government,8,Bhopal,Madhya Pradesh,India,1997,50,Yes,Yes,https://www.nliu.ac.in,23.2599,77.4126
+CLG0122,Gujarat National Law University,Law,Government,9,Gandhinagar,Gujarat,India,2003,50,Yes,Yes,https://www.gnlu.ac.in,23.2156,72.6369
+CLG0123,Rajiv Gandhi National University of Law,Law,Government,12,Patiala,Punjab,India,2006,60,Yes,Yes,https://www.rgnul.ac.in,30.3398,76.3869
+CLG0124,Dr. Ram Manohar Lohiya National Law University,Law,Government,14,Lucknow,Uttar Pradesh,India,2006,25,Yes,Yes,https://www.rmlnlu.ac.in,26.8467,80.9462
+CLG0125,Hidayatullah National Law University,Law,Government,16,Raipur,Chhattisgarh,India,2003,110,Yes,Yes,https://www.hnlu.ac.in,21.2514,81.6296
+CLG0126,National University of Advanced Legal Studies,Law,Government,6,Kochi,Kerala,India,2005,10,Yes,Yes,https://www.nusl.ac.in,9.9312,76.2673
+CLG0127,National Law University Jodhpur,Law,Government,5,Jodhpur,Rajasthan,India,1999,25,Yes,Yes,https://www.nlujodhpur.ac.in,26.2389,73.0243
+CLG0128,Chanakya National Law University,Law,Government,18,Patna,Bihar,India,2006,17,Yes,Yes,https://www.cnlu.ac.in,25.5941,85.1376
+CLG0129,National Law University Odisha,Law,Government,13,Cuttack,Odisha,India,2008,12,Yes,Yes,https://www.nluo.ac.in,20.4625,85.8828
+CLG0130,Maharashtra National Law University Mumbai,Law,Government,NULL,Mumbai,Maharashtra,India,2014,5,Yes,Yes,https://mnlumumbai.edu.in,19.076,72.8777
+CLG0131,Maharashtra National Law University Nagpur,Law,Government,NULL,Nagpur,Maharashtra,India,2016,10,Yes,Yes,https://nlunagpur.ac.in,21.1458,79.0882
+CLG0132,Himachal Pradesh National Law University,Law,Government,NULL,Shimla,Himachal Pradesh,India,2016,10,Yes,Yes,https://hpnlu.ac.in,31.1048,77.1734
+CLG0133,Dharmashastra National Law University,Law,Government,NULL,Jabalpur,Madhya Pradesh,India,2018,20,Yes,Yes,https://dnlu.ac.in,23.1815,79.9864
+CLG0134,National Law University and Judicial Academy Assam,Law,Government,NULL,Guwahati,Assam,India,2009,20,Yes,Yes,https://www.nluassam.ac.in,26.1445,91.7362
+CLG0135,Tamil Nadu National Law University,Law,Government,17,Tiruchirappalli,Tamil Nadu,India,2012,15,Yes,Yes,https://www.tnnlu.ac.in,10.7905,78.7047
+CLG0136,Damodaram Sanjivayya National Law University,Law,Government,NULL,Visakhapatnam,Andhra Pradesh,India,2008,20,Yes,Yes,https://www.dsnlu.ac.in,17.6868,83.2185
+CLG0137,University of Delhi,Multidisciplinary,Government,7,New Delhi,Delhi,India,1922,218,Yes,Yes,https://www.du.ac.in,28.6139,77.209
+CLG0138,Jawaharlal Nehru University,Multidisciplinary,Government,10,New Delhi,Delhi,India,1969,1019,Yes,Yes,https://www.jnu.ac.in,28.6139,77.209
+CLG0139,Banaras Hindu University,Multidisciplinary,Government,6,Varanasi,Uttar Pradesh,India,1916,1300,Yes,Yes,https://www.bhu.ac.in,25.3176,82.9739
+CLG0140,Aligarh Muslim University,Multidisciplinary,Government,12,Aligarh,Uttar Pradesh,India,1875,467,Yes,Yes,https://www.amu.ac.in,27.8974,78.088
+CLG0141,University of Hyderabad,Multidisciplinary,Government,14,Hyderabad,Telangana,India,1974,2300,Yes,Yes,https://uohyd.ac.in,17.385,78.4867
+CLG0142,Jamia Millia Islamia,Multidisciplinary,Government,11,New Delhi,Delhi,India,1920,200,Yes,Yes,https://jmi.ac.in,28.6139,77.209
+CLG0143,Visva-Bharati University,Multidisciplinary,Government,NULL,Santiniketan,West Bengal,India,1921,1100,Yes,Yes,https://www.visvabharati.ac.in,23.682,87.6837
+CLG0144,Pondicherry University,Multidisciplinary,Government,NULL,Puducherry,Puducherry,India,1985,780,Yes,Yes,https://www.pondiuni.edu.in,11.9416,79.8083
+CLG0145,Tezpur University,Multidisciplinary,Government,NULL,Tezpur,Assam,India,1994,258,Yes,Yes,https://www.tezu.ernet.in,26.6528,92.7926
+CLG0146,North Eastern Hill University,Multidisciplinary,Government,NULL,Shillong,Meghalaya,India,1973,220,Yes,Yes,https://www.nehu.ac.in,25.5788,91.8933
+CLG0147,Central University of Rajasthan,Multidisciplinary,Government,NULL,Ajmer,Rajasthan,India,2009,296,Yes,Yes,https://curaj.ac.in,26.4499,74.6399
+CLG0148,Central University of Gujarat,Multidisciplinary,Government,NULL,Gandhinagar,Gujarat,India,2009,182,Yes,Yes,https://www.cug.ac.in,23.2156,72.6369
+CLG0149,Central University of Punjab,Multidisciplinary,Government,NULL,Bathinda,Punjab,India,2009,506,Yes,Yes,https://www.cup.edu.in,30.211,74.9455
+CLG0150,Central University of Kerala,Multidisciplinary,Government,NULL,Kasaragod,Kerala,India,2009,300,Yes,Yes,https://www.cukerala.ac.in,12.4996,74.9869
+CLG0151,Central University of Haryana,Multidisciplinary,Government,NULL,Mahendragarh,Haryana,India,2009,462,Yes,Yes,https://www.cuh.ac.in,28.2734,76.1543
+CLG0152,Central University of Himachal Pradesh,Multidisciplinary,Government,NULL,Dharamshala,Himachal Pradesh,India,2009,300,Yes,Yes,https://cuhimachal.ac.in,32.219,76.3234
+CLG0153,Central University of South Bihar,Multidisciplinary,Government,NULL,Gaya,Bihar,India,2009,200,Yes,Yes,https://www.cusb.ac.in,24.7955,84.9994
+CLG0154,Central University of Jharkhand,Multidisciplinary,Government,NULL,Ranchi,Jharkhand,India,2009,224,Yes,Yes,https://www.cuj.ac.in,23.3441,85.3096
+CLG0155,Mahatma Gandhi Central University,Multidisciplinary,Government,NULL,Motihari,Bihar,India,2016,240,Yes,Yes,https://mgcub.ac.in,26.6485,84.9161
+CLG0156,Rajiv Gandhi University,Multidisciplinary,Government,NULL,Itanagar,Arunachal Pradesh,India,1984,302,Yes,Yes,https://www.rgu.ac.in,27.0844,93.6053
+CLG0157,Manipur University,Multidisciplinary,Government,NULL,Imphal,Manipur,India,1980,547,Yes,Yes,https://manipuruniv.ac.in,24.817,93.9368
+CLG0158,Mizoram University,Multidisciplinary,Government,NULL,Aizawl,Mizoram,India,2001,600,Yes,Yes,https://www.mzu.edu.in,23.7271,92.7176
+CLG0159,Nagaland University,Multidisciplinary,Government,NULL,Lumami,Nagaland,India,1994,300,Yes,Yes,https://nagalanduniversity.ac.in,26.3833,94.5833
+CLG0160,Sikkim University,Multidisciplinary,Government,NULL,Gangtok,Sikkim,India,2007,230,Yes,Yes,https://www.cus.ac.in,27.3389,88.6065
+CLG0161,Tripura University,Multidisciplinary,Government,NULL,Agartala,Tripura,India,1987,320,Yes,Yes,https://www.tripurauniv.ac.in,23.8315,91.2868
+CLG0162,Assam University,Multidisciplinary,Government,NULL,Silchar,Assam,India,1994,600,Yes,Yes,https://www.aus.ac.in,24.8333,92.7789
+CLG0163,Guru Ghasidas Vishwavidyalaya,Multidisciplinary,Government,NULL,Bilaspur,Chhattisgarh,India,1983,559,Yes,Yes,https://ggu.ac.in,22.0797,82.1391
+CLG0164,Dr. Harisingh Gour Vishwavidyalaya,Multidisciplinary,Government,NULL,Sagar,Madhya Pradesh,India,1946,1400,Yes,Yes,https://dhsgsu.ac.in,23.8388,78.7378
+CLG0165,Indira Gandhi National Tribal University,Multidisciplinary,Government,NULL,Amarkantak,Madhya Pradesh,India,2007,500,Yes,Yes,https://igntu.ac.in,22.6742,81.7581
+CLG0166,Birla Institute of Technology and Science Pilani,Engineering,Private,NULL,Pilani,Rajasthan,India,1964,328,Yes,Yes,https://www.bits-pilani.ac.in,28.367,75.5876
+CLG0167,Birla Institute of Technology and Science Goa,Engineering,Private,NULL,Goa,Goa,India,2004,180,Yes,Yes,https://www.bits-pilani.ac.in/goa,15.2993,74.124
+CLG0168,Birla Institute of Technology and Science Hyderabad,Engineering,Private,NULL,Hyderabad,Telangana,India,2008,200,Yes,Yes,https://www.bits-pilani.ac.in/hyderabad,17.385,78.4867
+CLG0169,Vellore Institute of Technology,Engineering,Private,11,Vellore,Tamil Nadu,India,1984,372,Yes,Yes,https://vit.ac.in,12.9165,79.1325
+CLG0170,VIT-AP University,Engineering,Private,NULL,Amaravati,Andhra Pradesh,India,2017,120,Yes,Yes,https://vitap.ac.in,16.513,80.5165
+CLG0171,SRM Institute of Science and Technology,Engineering,Deemed,16,Chennai,Tamil Nadu,India,1985,250,Yes,Yes,https://www.srmist.edu.in,13.0827,80.2707
+CLG0172,Manipal Academy of Higher Education,Multidisciplinary,Deemed,10,Manipal,Karnataka,India,1953,600,Yes,Yes,https://manipal.edu,13.3467,74.7869
+CLG0173,Amity University Noida,Multidisciplinary,Private,NULL,Noida,Uttar Pradesh,India,2005,100,Yes,Yes,https://www.amity.edu,28.5355,77.391
+CLG0174,Thapar Institute of Engineering and Technology,Engineering,Deemed,29,Patiala,Punjab,India,1956,250,Yes,Yes,https://www.thapar.edu,30.3398,76.3869
+CLG0175,Lovely Professional University,Multidisciplinary,Private,NULL,Jalandhar,Punjab,India,2005,600,Yes,Yes,https://www.lpu.in,31.326,75.5762
+CLG0176,Kalinga Institute of Industrial Technology,Engineering,Deemed,22,Bhubaneswar,Odisha,India,1992,255,Yes,Yes,https://kiit.ac.in,20.2961,85.8245
+CLG0177,SASTRA Deemed University,Engineering,Deemed,19,Thanjavur,Tamil Nadu,India,1984,270,Yes,Yes,https://www.sastra.edu,10.787,79.1378
+CLG0178,Shiv Nadar Institution of Eminence,Multidisciplinary,Private,NULL,Greater Noida,Uttar Pradesh,India,2011,286,Yes,Yes,https://snu.edu.in,28.4744,77.504
+CLG0179,Ashoka University,Multidisciplinary,Private,NULL,Sonipat,Haryana,India,2014,25,Yes,Yes,https://www.ashoka.edu.in,28.9931,77.0151
+CLG0180,Symbiosis International University,Multidisciplinary,Deemed,NULL,Pune,Maharashtra,India,1971,300,Yes,Yes,https://www.siu.edu.in,18.5204,73.8567
+CLG0181,Christ University,Multidisciplinary,Deemed,34,Bengaluru,Karnataka,India,1969,55,Yes,Yes,https://christuniversity.in,12.9716,77.5946
+CLG0182,PES University,Engineering,Private,NULL,Bengaluru,Karnataka,India,1972,25,Yes,Yes,https://pes.edu,12.9716,77.5946
+CLG0183,RV College of Engineering,Engineering,Private,NULL,Bengaluru,Karnataka,India,1963,51,Yes,Yes,https://rvce.edu.in,12.9716,77.5946
+CLG0184,M S Ramaiah Institute of Technology,Engineering,Private,NULL,Bengaluru,Karnataka,India,1962,25,Yes,Yes,https://msrit.edu,12.9716,77.5946
+CLG0185,BMS College of Engineering,Engineering,Government-Aided,NULL,Bengaluru,Karnataka,India,1946,20,Yes,Yes,https://bmsce.ac.in,12.9716,77.5946
+CLG0186,Amrita Vishwa Vidyapeetham,Multidisciplinary,Deemed,7,Coimbatore,Tamil Nadu,India,1994,380,Yes,Yes,https://www.amrita.edu,11.0168,76.9558
+CLG0187,Jamia Hamdard,Multidisciplinary,Deemed,NULL,New Delhi,Delhi,India,1989,52,Yes,Yes,https://jamiahamdard.edu.in,28.6139,77.209
+CLG0188,Chandigarh University,Multidisciplinary,Private,NULL,Mohali,Punjab,India,2012,200,Yes,Yes,https://www.cuchd.in,30.7046,76.7179
+CLG0189,Galgotias University,Multidisciplinary,Private,NULL,Greater Noida,Uttar Pradesh,India,2011,52,Yes,Yes,https://www.galgotiasuniversity.edu.in,28.4744,77.504
+CLG0190,Bennett University,Multidisciplinary,Private,NULL,Greater Noida,Uttar Pradesh,India,2016,68,Yes,Yes,https://www.bennett.edu.in,28.4744,77.504
+CLG0191,Vellore Institute of Technology Bhopal,Engineering,Private,NULL,Bhopal,Madhya Pradesh,India,2020,100,Yes,Yes,https://vitbhopal.ac.in,23.2599,77.4126
+CLG0192,SR University,Engineering,Private,NULL,Warangal,Telangana,India,2018,50,Yes,Yes,https://sru.edu.in,17.9784,79.6003
+CLG0193,Sri Sivasubramaniya Nadar College of Engineering,Engineering,Private,NULL,Chennai,Tamil Nadu,India,1996,25,Yes,Yes,https://www.ssn.edu.in,13.0827,80.2707
+CLG0194,PSG College of Technology,Engineering,Government-Aided,34,Coimbatore,Tamil Nadu,India,1951,45,Yes,Yes,https://www.psgtech.edu,11.0168,76.9558
+CLG0195,Coimbatore Institute of Technology,Engineering,Government-Aided,NULL,Coimbatore,Tamil Nadu,India,1956,140,Yes,Yes,https://www.cit.edu.in,11.0168,76.9558
+CLG0196,Thiagarajar College of Engineering,Engineering,Government-Aided,NULL,Madurai,Tamil Nadu,India,1957,100,Yes,Yes,https://www.tce.edu,9.9252,78.1198
+CLG0197,Kongu Engineering College,Engineering,Private,NULL,Erode,Tamil Nadu,India,1984,55,Yes,Yes,https://www.kongu.ac.in,11.341,77.7172
+CLG0198,Manipal Institute of Technology,Engineering,Deemed,NULL,Manipal,Karnataka,India,1957,180,Yes,Yes,https://manipal.edu/mit.html,13.3467,74.7869
+CLG0199,Dayananda Sagar College of Engineering,Engineering,Private,NULL,Bengaluru,Karnataka,India,1979,60,Yes,Yes,https://www.dsce.edu.in,12.9716,77.5946
+CLG0200,Vidyalankar Institute of Technology,Engineering,Private,NULL,Mumbai,Maharashtra,India,1999,5,Yes,Yes,https://www.vit.edu.in,19.076,72.8777
+CLG0201,Sardar Patel Institute of Technology,Engineering,Private,NULL,Mumbai,Maharashtra,India,1962,10,Yes,NULL,https://www.spit.ac.in,19.076,72.8777
+CLG0202,Veermata Jijabai Technological Institute,Engineering,Government-Aided,NULL,Mumbai,Maharashtra,India,1887,20,Yes,Yes,https://vjti.ac.in,19.076,72.8777
+CLG0203,Institute of Chemical Technology Mumbai,Engineering,Government,26,Mumbai,Maharashtra,India,1933,15,Yes,Yes,https://www.ictmumbai.edu.in,19.076,72.8777
+CLG0204,College of Engineering Pune,Engineering,Government,41,Pune,Maharashtra,India,1854,60,Yes,Yes,https://www.coep.org.in,18.5204,73.8567
+CLG0205,Jadavpur University,Engineering,Government,12,Kolkata,West Bengal,India,1955,58,Yes,Yes,https://www.jaduniv.edu.in,22.5726,88.3639
+CLG0206,Anna University,Engineering,Government,NULL,Chennai,Tamil Nadu,India,1978,185,Yes,Yes,https://www.annauniv.edu,13.0827,80.2707
+CLG0207,College of Engineering Guindy,Engineering,Government,NULL,Chennai,Tamil Nadu,India,1794,150,Yes,Yes,https://www.ceg.annauniv.edu,13.0827,80.2707
+CLG0208,Osmania University College of Engineering,Engineering,Government,NULL,Hyderabad,Telangana,India,1929,50,Yes,Yes,https://www.osmania.ac.in,17.385,78.4867
+CLG0209,Jawaharlal Nehru Technological University Hyderabad,Engineering,Government,NULL,Hyderabad,Telangana,India,1972,100,Yes,Yes,https://jntuh.ac.in,17.385,78.4867
+CLG0210,Delhi Technological University,Engineering,Government,29,New Delhi,Delhi,India,1941,164,Yes,Yes,https://dtu.ac.in,28.6139,77.209
+CLG0211,Netaji Subhas University of Technology,Engineering,Government,47,New Delhi,Delhi,India,1983,143,Yes,Yes,https://www.nsut.ac.in,28.6139,77.209
+CLG0212,Indraprastha Institute of Information Technology Delhi,Engineering,Government,NULL,New Delhi,Delhi,India,2008,25,Yes,Yes,https://www.iiitd.ac.in,28.6139,77.209
+CLG0213,Punjab Engineering College,Engineering,Government,76,Chandigarh,Chandigarh,India,1921,64,Yes,Yes,https://www.pec.ac.in,30.7333,76.7794
+CLG0214,Guru Gobind Singh Indraprastha University,Multidisciplinary,Government,NULL,New Delhi,Delhi,India,1998,60,Yes,Yes,https://www.ipu.ac.in,28.6139,77.209
+CLG0215,St. Stephen's College,Arts & Science,Government-Aided,4,New Delhi,Delhi,India,1881,9,Yes,Yes,https://www.ststephens.edu,28.6139,77.209
+CLG0216,Hindu College,Arts & Science,Government-Aided,NULL,New Delhi,Delhi,India,1899,9,Yes,Yes,https://www.hinducollege.ac.in,28.6139,77.209
+CLG0217,Miranda House,Arts & Science,Government-Aided,1,New Delhi,Delhi,India,1948,7,Yes,Yes,https://www.mirandahouse.ac.in,28.6139,77.209
+CLG0218,Lady Shri Ram College for Women,Arts & Science,Government-Aided,2,New Delhi,Delhi,India,1956,5,Yes,Yes,https://lsr.edu.in,28.6139,77.209
+CLG0219,Shri Ram College of Commerce,Commerce,Government-Aided,1,New Delhi,Delhi,India,1926,5,Yes,Yes,https://www.srcc.edu,28.6139,77.209
+CLG0220,Hansraj College,Arts & Science,Government-Aided,NULL,New Delhi,Delhi,India,1948,10,Yes,Yes,https://www.hansrajcollege.ac.in,28.6139,77.209
+CLG0221,Ramjas College,Arts & Science,Government-Aided,NULL,New Delhi,Delhi,India,1917,8,Yes,Yes,https://ramjascollege.edu.in,28.6139,77.209
+CLG0222,Kirori Mal College,Arts & Science,Government-Aided,NULL,New Delhi,Delhi,India,1954,10,Yes,Yes,https://www.kmcollegedu.ac.in,28.6139,77.209
+CLG0223,Sri Venkateswara College,Arts & Science,Government-Aided,NULL,New Delhi,Delhi,India,1961,8,Yes,Yes,https://svc.ac.in,28.6139,77.209
+CLG0224,Daulat Ram College,Arts & Science,Government-Aided,NULL,New Delhi,Delhi,India,1960,5,Yes,Yes,https://daulatramcollege.com,28.6139,77.209
+CLG0225,Gargi College,Arts & Science,Government-Aided,NULL,New Delhi,Delhi,India,1967,4,Yes,Yes,https://gargicollege.co.in,28.6139,77.209
+CLG0226,Kamala Nehru College,Arts & Science,Government-Aided,NULL,New Delhi,Delhi,India,1964,5,Yes,Yes,https://kncdu.ac.in,28.6139,77.209
+CLG0227,Jesus and Mary College,Arts & Science,Government-Aided,NULL,New Delhi,Delhi,India,1968,5,Yes,Yes,https://jmc.ac.in,28.6139,77.209
+CLG0228,Deshbandhu College,Arts & Science,Government-Aided,NULL,New Delhi,Delhi,India,1952,10,Yes,NULL,https://deshbandhucollege.ac.in,28.6139,77.209
+CLG0229,Motilal Nehru College,Arts & Science,Government-Aided,NULL,New Delhi,Delhi,India,1965,10,Yes,NULL,https://motilalnehrucollege.co.in,28.6139,77.209
+CLG0230,Atma Ram Sanatan Dharma College,Arts & Science,Government-Aided,NULL,New Delhi,Delhi,India,1959,6,Yes,NULL,https://arsdcollege.ac.in,28.6139,77.209
+CLG0231,Zakir Husain Delhi College,Arts & Science,Government-Aided,NULL,New Delhi,Delhi,India,1692,8,Yes,NULL,https://zakirhusaindelhicollege.ac.in,28.6139,77.209
+CLG0232,Shivaji College,Arts & Science,Government-Aided,NULL,New Delhi,Delhi,India,1962,10,Yes,NULL,https://shivaji.du.ac.in,28.6139,77.209
+CLG0233,Rajdhani College,Arts & Science,Government-Aided,NULL,New Delhi,Delhi,India,1965,10,Yes,NULL,https://rajdhanicollege.ac.in,28.6139,77.209
+CLG0234,Deen Dayal Upadhyaya College,Arts & Science,Government-Aided,NULL,New Delhi,Delhi,India,1990,8,Yes,NULL,https://ddu.ac.in,28.6139,77.209
+CLG0235,Christian Medical College Vellore,Medical,Private,2,Vellore,Tamil Nadu,India,1900,150,Yes,Yes,https://www.cmch-vellore.edu,12.9165,79.1325
+CLG0236,Postgraduate Institute of Medical Education and Research,Medical,Government,4,Chandigarh,Chandigarh,India,1962,150,Yes,Yes,https://pgimer.edu.in,30.7333,76.7794
+CLG0237,Sanjay Gandhi Postgraduate Institute of Medical Sciences,Medical,Government,6,Lucknow,Uttar Pradesh,India,1983,300,Yes,Yes,https://www.sgpgi.ac.in,26.8467,80.9462
+CLG0238,Kasturba Medical College Manipal,Medical,Deemed,NULL,Manipal,Karnataka,India,1953,60,Yes,Yes,https://manipal.edu/kmc-manipal.html,13.3467,74.7869
+CLG0239,Jawaharlal Institute of Postgraduate Medical Education and Research,Medical,Government,5,Puducherry,Puducherry,India,1823,192,Yes,Yes,https://www.jipmer.edu.in,11.9416,79.8083
+CLG0240,Maulana Azad Medical College,Medical,Government,14,New Delhi,Delhi,India,1958,17,Yes,Yes,https://www.mamc.ac.in,28.6139,77.209
+CLG0241,King George's Medical University,Medical,Government,10,Lucknow,Uttar Pradesh,India,1911,250,Yes,Yes,https://www.kgmu.org,26.8467,80.9462
+CLG0242,Institute of Medical Sciences Banaras Hindu University,Medical,Government,NULL,Varanasi,Uttar Pradesh,India,1960,150,Yes,Yes,https://iomsbhu.in,25.3176,82.9739
+CLG0243,Grant Medical College and Sir J.J. Group of Hospitals,Medical,Government,NULL,Mumbai,Maharashtra,India,1845,20,Yes,Yes,https://gmcjjh.org,19.076,72.8777
+CLG0244,Seth Gordhandas Sunderdas Medical College,Medical,Government,NULL,Mumbai,Maharashtra,India,1925,20,Yes,Yes,https://www.kem.edu,19.076,72.8777
+CLG0245,Lady Hardinge Medical College,Medical,Government,NULL,New Delhi,Delhi,India,1916,12,Yes,Yes,https://www.lhmc-hosp.gov.in,28.6139,77.209
+CLG0246,Madras Medical College,Medical,Government,NULL,Chennai,Tamil Nadu,India,1835,73,Yes,Yes,https://www.mmc.tn.gov.in,13.0827,80.2707
+CLG0247,Armed Forces Medical College,Medical,Government,7,Pune,Maharashtra,India,1948,110,Yes,Yes,https://afmc.nic.in,18.5204,73.8567
+CLG0248,Government Medical College Chandigarh,Medical,Government,NULL,Chandigarh,Chandigarh,India,1991,15,Yes,NULL,https://gmch.gov.in,30.7333,76.7794
+CLG0249,Bangalore Medical College and Research Institute,Medical,Government,NULL,Bengaluru,Karnataka,India,1955,20,Yes,NULL,https://bmcri.org,12.9716,77.5946
+CLG0250,St. John's Medical College,Medical,Private,NULL,Bengaluru,Karnataka,India,1963,45,Yes,Yes,https://www.stjohns.in,12.9716,77.5946
+CLG0251,Government Medical College Thiruvananthapuram,Medical,Government,NULL,Thiruvananthapuram,Kerala,India,1951,40,Yes,NULL,https://mctrivandrum.ac.in,8.5241,76.9366
+CLG0252,Amrita School of Medicine,Medical,Deemed,NULL,Kochi,Kerala,India,2002,50,Yes,Yes,https://healthsciences.amrita.edu,9.9312,76.2673
+CLG0253,B. J. Medical College Ahmedabad,Medical,Government,NULL,Ahmedabad,Gujarat,India,1946,30,Yes,NULL,https://bjmcahmedabad.edu.in,23.0225,72.5714
+CLG0254,Gandhi Medical College Bhopal,Medical,Government,NULL,Bhopal,Madhya Pradesh,India,1955,25,Yes,NULL,https://gmcbhopal.edu.in,23.2599,77.4126
+CLG0255,Nizam's Institute of Medical Sciences,Medical,Government,NULL,Hyderabad,Telangana,India,1964,105,Yes,Yes,https://www.nims.edu.in,17.385,78.4867
+CLG0256,Vardhman Mahavir Medical College and Safdarjung Hospital,Medical,Government,NULL,New Delhi,Delhi,India,2001,60,Yes,NULL,https://vmmc-sjh.nic.in,28.6139,77.209
+CLG0257,University College of Medical Sciences,Medical,Government,NULL,New Delhi,Delhi,India,1971,12,Yes,NULL,https://www.ucms.ac.in,28.6139,77.209
+CLG0258,Topiwala National Medical College,Medical,Government,NULL,Mumbai,Maharashtra,India,1964,10,Yes,NULL,https://tnmcnairhospital.org,19.076,72.8777
+CLG0259,Government Medical College Nagpur,Medical,Government,NULL,Nagpur,Maharashtra,India,1947,30,Yes,NULL,https://gmcnagpur.edu.in,21.1458,79.0882
+CLG0260,Osmania Medical College,Medical,Government,NULL,Hyderabad,Telangana,India,1846,20,Yes,NULL,https://osmaniamedicalcollege.telangana.gov.in,17.385,78.4867
+CLG0261,Stanley Medical College,Medical,Government,NULL,Chennai,Tamil Nadu,India,1938,25,Yes,NULL,https://stanleymedicalcollege.co.in,13.0827,80.2707
+CLG0262,Government Medical College Kozhikode,Medical,Government,NULL,Kozhikode,Kerala,India,1957,180,Yes,NULL,https://mcc.kerala.gov.in,11.2588,75.7804
+CLG0263,Rajendra Institute of Medical Sciences,Medical,Government,NULL,Ranchi,Jharkhand,India,1960,80,Yes,NULL,https://rims.edu.in,23.3441,85.3096
+CLG0264,Sher-i-Kashmir Institute of Medical Sciences,Medical,Government,NULL,Srinagar,Jammu and Kashmir,India,1982,100,Yes,Yes,https://skims.ac.in,34.0837,74.7973
+CLG0265,Xavier Labour Relations Institute,Management,Private,8,Jamshedpur,Jharkhand,India,1949,60,Yes,Yes,https://www.xlri.ac.in,22.8046,86.2029
+CLG0266,Management Development Institute,Management,Private,9,Gurugram,Haryana,India,1973,26,Yes,Yes,https://www.mdi.ac.in,28.4595,77.0266
+CLG0267,Indian Institute of Foreign Trade,Management,Government,10,New Delhi,Delhi,India,1963,7,Yes,Yes,https://www.iift.ac.in,28.6139,77.209
+CLG0268,S.P. Jain Institute of Management and Research,Management,Private,11,Mumbai,Maharashtra,India,1981,4,Yes,Yes,https://www.spjimr.org,19.076,72.8777
+CLG0269,Faculty of Management Studies Delhi University,Management,Government,7,New Delhi,Delhi,India,1954,5,Yes,Yes,https://fms.edu,28.6139,77.209
+CLG0270,Xavier School of Management,Management,Private,NULL,Bhubaneswar,Odisha,India,1987,90,Yes,Yes,https://xub.edu.in,20.2961,85.8245
+CLG0271,Great Lakes Institute of Management,Management,Private,NULL,Chennai,Tamil Nadu,India,2004,20,Yes,NULL,https://www.greatlakes.edu.in,13.0827,80.2707
+CLG0272,Narsee Monjee Institute of Management Studies,Management,Deemed,NULL,Mumbai,Maharashtra,India,1981,15,Yes,Yes,https://www.nmims.edu,19.076,72.8777
+CLG0273,Institute of Management Technology Ghaziabad,Management,Private,NULL,Ghaziabad,Uttar Pradesh,India,1980,17,Yes,NULL,https://www.imt.edu,28.6692,77.4538
+CLG0274,T.A. Pai Management Institute,Management,Deemed,NULL,Manipal,Karnataka,India,1980,32,Yes,Yes,https://www.tapmi.edu.in,13.3467,74.7869
+CLG0275,K J Somaiya Institute of Management,Management,Private,NULL,Mumbai,Maharashtra,India,1981,20,Yes,NULL,https://www.somaiya.edu,19.076,72.8777
+CLG0276,International Management Institute New Delhi,Management,Private,NULL,New Delhi,Delhi,India,1981,3,Yes,NULL,https://www.imi.edu,28.6139,77.209
+CLG0277,Symbiosis Institute of Business Management Pune,Management,Deemed,NULL,Pune,Maharashtra,India,1978,10,Yes,NULL,https://www.sibmpune.edu.in,18.5204,73.8567
+CLG0278,Xavier Institute of Management Bhubaneswar,Management,Private,NULL,Bhubaneswar,Odisha,India,1987,90,Yes,NULL,https://ximb.edu.in,20.2961,85.8245
+CLG0279,Goa Institute of Management,Management,Private,NULL,Sanquelim,Goa,India,1993,55,Yes,NULL,https://www.gim.ac.in,15.5833,74.0
+CLG0280,Presidency University Kolkata,Arts & Science,Government,NULL,Kolkata,West Bengal,India,1817,15,Yes,Yes,https://www.presiuniv.ac.in,22.5726,88.3639
+CLG0281,Loyola College Chennai,Arts & Science,Government-Aided,NULL,Chennai,Tamil Nadu,India,1925,16,Yes,Yes,https://www.loyolacollege.edu,13.0827,80.2707
+CLG0282,Madras Christian College,Arts & Science,Government-Aided,NULL,Chennai,Tamil Nadu,India,1837,365,Yes,Yes,https://mcc.edu.in,13.0827,80.2707
+CLG0283,St. Xavier's College Mumbai,Arts & Science,Government-Aided,NULL,Mumbai,Maharashtra,India,1869,5,Yes,Yes,https://xaviers.edu,19.076,72.8777
+CLG0284,St. Xavier's College Kolkata,Arts & Science,Private,NULL,Kolkata,West Bengal,India,1860,5,Yes,Yes,https://www.sxccal.edu,22.5726,88.3639
+CLG0285,Fergusson College,Arts & Science,Government-Aided,NULL,Pune,Maharashtra,India,1885,38,Yes,Yes,https://www.fergusson.edu,18.5204,73.8567
+CLG0286,Elphinstone College,Arts & Science,Government,NULL,Mumbai,Maharashtra,India,1856,3,Yes,NULL,https://elphinstone.ac.in,19.076,72.8777
+CLG0287,Mount Carmel College,Arts & Science,Private,NULL,Bengaluru,Karnataka,India,1948,10,Yes,NULL,https://mccblr.edu.in,12.9716,77.5946
+CLG0288,St. Joseph's College Bangalore,Arts & Science,Government-Aided,NULL,Bengaluru,Karnataka,India,1882,10,Yes,Yes,https://sjc.ac.in,12.9716,77.5946
+CLG0289,Women's Christian College Chennai,Arts & Science,Government-Aided,NULL,Chennai,Tamil Nadu,India,1915,17,Yes,Yes,https://www.wcc.edu.in,13.0827,80.2707
+CLG0290,Ethiraj College for Women,Arts & Science,Government-Aided,NULL,Chennai,Tamil Nadu,India,1948,9,Yes,NULL,https://www.ethirajcollege.edu.in,13.0827,80.2707
+CLG0291,Stella Maris College,Arts & Science,Government-Aided,NULL,Chennai,Tamil Nadu,India,1947,10,Yes,Yes,https://stellamariscollege.edu.in,13.0827,80.2707
+CLG0292,Bishop Heber College,Arts & Science,Government-Aided,NULL,Tiruchirappalli,Tamil Nadu,India,1886,84,Yes,Yes,https://www.bhc.edu.in,10.7905,78.7047
+CLG0293,American College Madurai,Arts & Science,Government-Aided,NULL,Madurai,Tamil Nadu,India,1881,80,Yes,Yes,https://www.americancollege.edu.in,9.9252,78.1198
+CLG0294,Loyola Academy,Arts & Science,Private,NULL,Hyderabad,Telangana,India,1993,25,Yes,NULL,https://www.loyolaacademy.edu.in,17.385,78.4867
+CLG0295,St. Joseph's College Devagiri,Arts & Science,Government-Aided,NULL,Kozhikode,Kerala,India,1956,25,Yes,NULL,https://devagiricollege.org,11.2588,75.7804
+CLG0296,Presidency College Chennai,Arts & Science,Government,NULL,Chennai,Tamil Nadu,India,1840,20,Yes,NULL,https://presidencychennai.edu.in,13.0827,80.2707
+CLG0297,St. Xavier's College Ahmedabad,Arts & Science,Private,NULL,Ahmedabad,Gujarat,India,1955,5,Yes,NULL,https://sxca.edu.in,23.0225,72.5714
+CLG0298,Sophia College for Women,Arts & Science,Private,NULL,Mumbai,Maharashtra,India,1941,8,Yes,NULL,https://www.sophiacollegemumbai.com,19.076,72.8777
+CLG0299,Jai Hind College,Arts & Science,Private,NULL,Mumbai,Maharashtra,India,1948,5,Yes,NULL,https://www.jaihindcollege.com,19.076,72.8777
+CLG0300,H.R. College of Commerce and Economics,Commerce,Private,NULL,Mumbai,Maharashtra,India,1950,3,Yes,NULL,https://www.hrcollege.edu,19.076,72.8777
+CLG0301,Narsee Monjee College of Commerce and Economics,Commerce,Private,NULL,Mumbai,Maharashtra,India,1964,4,Yes,NULL,https://www.nmcollege.in,19.076,72.8777
+CLG0302,Loyola College of Social Sciences,Arts & Science,Private,NULL,Thiruvananthapuram,Kerala,India,1964,15,Yes,NULL,https://www.loyolacollegekerala.edu.in,8.5241,76.9366
+CLG0303,CMS College Kottayam,Arts & Science,Government-Aided,NULL,Kottayam,Kerala,India,1817,20,Yes,NULL,https://cmscollege.ac.in,9.5916,76.5222
+CLG0304,Newman College Thodupuzha,Arts & Science,Government-Aided,NULL,Thodupuzha,Kerala,India,1963,20,Yes,NULL,https://newmancollege.ac.in,9.8931,76.7192
+CLG0305,Sri Venkateswara University,Multidisciplinary,Government,NULL,Tirupati,Andhra Pradesh,India,1954,1000,Yes,Yes,https://svuniversity.edu.in,13.6288,79.4192
+CLG0306,Andhra University,Multidisciplinary,Government,NULL,Visakhapatnam,Andhra Pradesh,India,1926,470,Yes,Yes,https://www.andhrauniversity.edu.in,17.6868,83.2185
+CLG0307,Osmania University,Multidisciplinary,Government,NULL,Hyderabad,Telangana,India,1918,1600,Yes,Yes,https://www.osmania.ac.in,17.385,78.4867
+CLG0308,University of Mumbai,Multidisciplinary,Government,NULL,Mumbai,Maharashtra,India,1857,230,Yes,Yes,https://mu.ac.in,19.076,72.8777
+CLG0309,University of Calcutta,Multidisciplinary,Government,NULL,Kolkata,West Bengal,India,1857,55,Yes,Yes,https://www.caluniv.ac.in,22.5726,88.3639
+CLG0310,University of Madras,Multidisciplinary,Government,NULL,Chennai,Tamil Nadu,India,1857,150,Yes,Yes,https://www.unom.ac.in,13.0827,80.2707
+CLG0311,Panjab University,Multidisciplinary,Government,NULL,Chandigarh,Chandigarh,India,1882,550,Yes,Yes,https://puchd.ac.in,30.7333,76.7794
+CLG0312,Utkal University,Multidisciplinary,Government,NULL,Bhubaneswar,Odisha,India,1943,400,Yes,Yes,https://utkaluniversity.ac.in,20.2961,85.8245
+CLG0313,Gauhati University,Multidisciplinary,Government,NULL,Guwahati,Assam,India,1948,500,Yes,Yes,https://www.gauhati.ac.in,26.1445,91.7362
+CLG0314,Karnatak University,Multidisciplinary,Government,NULL,Dharwad,Karnataka,India,1949,750,Yes,Yes,https://kud.ac.in,15.4589,75.0078
+CLG0315,University of Mysore,Multidisciplinary,Government,NULL,Mysuru,Karnataka,India,1916,739,Yes,Yes,https://uni-mysore.ac.in,12.2958,76.6394
+CLG0316,Bharathiar University,Multidisciplinary,Government,NULL,Coimbatore,Tamil Nadu,India,1982,300,Yes,Yes,https://www.b-u.ac.in,11.0168,76.9558
+CLG0317,Bharathidasan University,Multidisciplinary,Government,NULL,Tiruchirappalli,Tamil Nadu,India,1982,470,Yes,Yes,https://www.bdu.ac.in,10.7905,78.7047
+CLG0318,Madurai Kamaraj University,Multidisciplinary,Government,NULL,Madurai,Tamil Nadu,India,1966,600,Yes,Yes,https://mkuniversity.ac.in,9.9252,78.1198
+CLG0319,Alagappa University,Multidisciplinary,Government,NULL,Karaikudi,Tamil Nadu,India,1985,700,Yes,Yes,https://www.alagappauniversity.ac.in,10.073,78.7822
+CLG0320,Periyar University,Multidisciplinary,Government,NULL,Salem,Tamil Nadu,India,1997,235,Yes,Yes,https://periyaruniversity.ac.in,11.6643,78.146
+CLG0321,University of Rajasthan,Multidisciplinary,Government,NULL,Jaipur,Rajasthan,India,1947,300,Yes,Yes,https://uniraj.ac.in,26.9124,75.7873
+CLG0322,Kurukshetra University,Multidisciplinary,Government,NULL,Kurukshetra,Haryana,India,1956,472,Yes,Yes,https://kuk.ac.in,29.9695,76.8783
+CLG0323,Maharshi Dayanand University,Multidisciplinary,Government,NULL,Rohtak,Haryana,India,1976,700,Yes,Yes,https://mdurohtak.ac.in,28.8955,76.6066
+CLG0324,Guru Nanak Dev University,Multidisciplinary,Government,NULL,Amritsar,Punjab,India,1969,600,Yes,Yes,https://gndu.ac.in,31.634,74.8723
+CLG0325,Punjabi University Patiala,Multidisciplinary,Government,NULL,Patiala,Punjab,India,1962,314,Yes,Yes,https://www.punjabiuniversity.ac.in,30.3398,76.3869
+CLG0326,University of Kashmir,Multidisciplinary,Government,NULL,Srinagar,Jammu and Kashmir,India,1948,247,Yes,Yes,https://www.kashmiruniversity.net,34.0837,74.7973
+CLG0327,University of Jammu,Multidisciplinary,Government,NULL,Jammu,Jammu and Kashmir,India,1969,300,Yes,Yes,https://www.jammuuniversity.ac.in,32.7266,74.857
+CLG0328,Kumaun University,Multidisciplinary,Government,NULL,Nainital,Uttarakhand,India,1973,NULL,Yes,NULL,https://kunainital.ac.in,29.3803,79.4636
+CLG0329,H.N.B. Garhwal University,Multidisciplinary,Government,NULL,Srinagar,Uttarakhand,India,1973,NULL,Yes,NULL,https://hnbgu.ac.in,34.0837,74.7973
+CLG0330,Chaudhary Charan Singh University,Multidisciplinary,Government,NULL,Meerut,Uttar Pradesh,India,1965,300,Yes,NULL,https://ccsuniversity.ac.in,28.9845,77.7064
+CLG0331,Dr. Bhimrao Ambedkar University Agra,Multidisciplinary,Government,NULL,Agra,Uttar Pradesh,India,1927,150,Yes,NULL,https://www.dbrau.org.in,27.1767,78.0081
+CLG0332,University of Lucknow,Multidisciplinary,Government,NULL,Lucknow,Uttar Pradesh,India,1867,250,Yes,Yes,https://www.lkouniv.ac.in,26.8467,80.9462
+CLG0333,University of Allahabad,Multidisciplinary,Government,NULL,Prayagraj,Uttar Pradesh,India,1887,140,Yes,Yes,https://www.allduniv.ac.in,25.4358,81.8463
+CLG0334,Magadh University,Multidisciplinary,Government,NULL,Bodh Gaya,Bihar,India,1962,300,Yes,NULL,https://magadhuniversity.ac.in,24.6961,84.9911
+CLG0335,Patna University,Multidisciplinary,Government,NULL,Patna,Bihar,India,1917,90,Yes,Yes,https://www.patnauniversity.ac.in,25.5941,85.1376
+CLG0336,Ranchi University,Multidisciplinary,Government,NULL,Ranchi,Jharkhand,India,1960,NULL,Yes,NULL,https://ranchiuniversity.ac.in,23.3441,85.3096
+CLG0337,Sambalpur University,Multidisciplinary,Government,NULL,Sambalpur,Odisha,India,1967,588,Yes,NULL,https://www.suniv.ac.in,21.4669,83.9812
+CLG0338,Berhampur University,Multidisciplinary,Government,NULL,Berhampur,Odisha,India,1967,270,Yes,NULL,https://buodisha.edu.in,19.3149,84.7941
+CLG0339,Vidyasagar University,Multidisciplinary,Government,NULL,Midnapore,West Bengal,India,1981,100,Yes,NULL,https://www.vidyasagar.ac.in,22.4257,87.32
+CLG0340,University of Burdwan,Multidisciplinary,Government,NULL,Bardhaman,West Bengal,India,1960,483,Yes,NULL,https://www.buruniv.ac.in,23.2324,87.8615
+CLG0341,University of North Bengal,Multidisciplinary,Government,NULL,Siliguri,West Bengal,India,1962,700,Yes,NULL,https://www.nbu.ac.in,26.7271,88.3953
+CLG0342,University of Kalyani,Multidisciplinary,Government,NULL,Kalyani,West Bengal,India,1960,437,Yes,NULL,https://www.klyuniv.ac.in,22.975,88.434
+CLG0343,Shivaji University,Multidisciplinary,Government,NULL,Kolhapur,Maharashtra,India,1962,853,Yes,NULL,https://www.unishivaji.ac.in,16.705,74.2433
+CLG0344,North Maharashtra University,Multidisciplinary,Government,NULL,Jalgaon,Maharashtra,India,1990,300,Yes,NULL,https://nmu.ac.in,21.0077,75.5626
+CLG0345,SNDT Women's University,Multidisciplinary,Government,NULL,Mumbai,Maharashtra,India,1916,20,Yes,NULL,https://sndt.ac.in,19.076,72.8777
+CLG0346,Gujarat University,Multidisciplinary,Government,NULL,Ahmedabad,Gujarat,India,1949,244,Yes,Yes,https://www.gujaratuniversity.ac.in,23.0225,72.5714
+CLG0347,Sardar Patel University,Multidisciplinary,Government,NULL,Anand,Gujarat,India,1955,150,Yes,NULL,https://www.spuvvn.edu,22.5645,72.9289
+CLG0348,The Maharaja Sayajirao University of Baroda,Multidisciplinary,Government,NULL,Vadodara,Gujarat,India,1949,700,Yes,Yes,https://www.msubaroda.ac.in,22.3072,73.1812
+CLG0349,Saurashtra University,Multidisciplinary,Government,NULL,Rajkot,Gujarat,India,1967,300,Yes,NULL,https://www.saurashtrauniversity.edu,22.3039,70.8022
+CLG0350,Devi Ahilya Vishwavidyalaya,Multidisciplinary,Government,NULL,Indore,Madhya Pradesh,India,1964,470,Yes,NULL,https://dauniv.ac.in,22.7196,75.8577
+CLG0351,Rani Durgavati Vishwavidyalaya,Multidisciplinary,Government,NULL,Jabalpur,Madhya Pradesh,India,1957,300,Yes,NULL,https://rdunijbpin.org,23.1815,79.9864
+CLG0352,Vikram University,Multidisciplinary,Government,NULL,Ujjain,Madhya Pradesh,India,1957,300,Yes,NULL,https://vikramuniversity.ac.in,23.1765,75.7885
+CLG0353,Jiwaji University,Multidisciplinary,Government,NULL,Gwalior,Madhya Pradesh,India,1964,300,Yes,NULL,https://www.jiwaji.edu,26.2183,78.1828
+CLG0354,Bundelkhand University,Multidisciplinary,Government,NULL,Jhansi,Uttar Pradesh,India,1975,150,Yes,NULL,https://bujhansi.ac.in,25.4484,78.5685
+CLG0355,School of Planning and Architecture Delhi,Architecture,Government,1,New Delhi,Delhi,India,1941,10,Yes,Yes,https://spa.ac.in,28.6139,77.209
+CLG0356,School of Planning and Architecture Bhopal,Architecture,Government,NULL,Bhopal,Madhya Pradesh,India,2008,12,Yes,Yes,https://spabhopal.ac.in,23.2599,77.4126
+CLG0357,School of Planning and Architecture Vijayawada,Architecture,Government,NULL,Vijayawada,Andhra Pradesh,India,2008,20,Yes,Yes,https://spav.ac.in,16.5062,80.648
+CLG0358,CEPT University,Architecture,Private,2,Ahmedabad,Gujarat,India,1962,8,Yes,Yes,https://cept.ac.in,23.0225,72.5714
+CLG0359,Sir J.J. College of Architecture,Architecture,Government,NULL,Mumbai,Maharashtra,India,1913,5,Yes,NULL,https://sirjjarchitecture.org,19.076,72.8777
+CLG0360,Chandigarh College of Architecture,Architecture,Government,NULL,Chandigarh,Chandigarh,India,1961,10,Yes,NULL,https://ccachd.edu.in,30.7333,76.7794
+CLG0361,National Institute of Pharmaceutical Education and Research Mohali,Pharmacy,Government,1,Mohali,Punjab,India,1998,72,Yes,Yes,https://niper.gov.in,30.7046,76.7179
+CLG0362,National Institute of Pharmaceutical Education and Research Hyderabad,Pharmacy,Government,NULL,Hyderabad,Telangana,India,2005,110,Yes,Yes,https://niperhyd.ac.in,17.385,78.4867
+CLG0363,Manipal College of Pharmaceutical Sciences,Pharmacy,Deemed,NULL,Manipal,Karnataka,India,1961,600,Yes,Yes,https://manipal.edu/mcops.html,13.3467,74.7869
+CLG0364,Poona College of Pharmacy,Pharmacy,Private,NULL,Pune,Maharashtra,India,1974,10,Yes,NULL,https://bharatividyapeeth.edu,18.5204,73.8567
+CLG0365,JSS College of Pharmacy Ooty,Pharmacy,Deemed,NULL,Udhagamandalam,Tamil Nadu,India,1975,20,Yes,NULL,https://jssuni.edu.in,11.4102,76.695
+CLG0366,Birla Institute of Technology Mesra,Engineering,Deemed,30,Ranchi,Jharkhand,India,1955,780,Yes,Yes,https://www.bitmesra.ac.in,23.3441,85.3096
+CLG0367,Panjab University Institute of Pharmaceutical Sciences,Pharmacy,Government,NULL,Chandigarh,Chandigarh,India,1944,NULL,Yes,NULL,https://uips.puchd.ac.in,30.7333,76.7794
+CLG0368,Indian Agricultural Research Institute,Agriculture,Government,1,New Delhi,Delhi,India,1905,485,Yes,Yes,https://www.iari.res.in,28.6139,77.209
+CLG0369,Punjab Agricultural University,Agriculture,Government,NULL,Ludhiana,Punjab,India,1962,3060,Yes,Yes,https://www.pau.edu,30.901,75.8573
+CLG0370,Govind Ballabh Pant University of Agriculture and Technology,Agriculture,Government,NULL,Pantnagar,Uttarakhand,India,1960,12000,Yes,Yes,https://www.gbpuat.ac.in,29.0222,79.4908
+CLG0371,Tamil Nadu Agricultural University,Agriculture,Government,NULL,Coimbatore,Tamil Nadu,India,1971,1000,Yes,Yes,https://www.tnau.ac.in,11.0168,76.9558
+CLG0372,Acharya N.G. Ranga Agricultural University,Agriculture,Government,NULL,Guntur,Andhra Pradesh,India,1964,700,Yes,Yes,https://angrau.ac.in,16.3067,80.4365
+CLG0373,Kerala Agricultural University,Agriculture,Government,NULL,Thrissur,Kerala,India,1971,800,Yes,Yes,https://www.kau.in,10.5276,76.2144
+CLG0374,Anand Agricultural University,Agriculture,Government,NULL,Anand,Gujarat,India,2004,500,Yes,NULL,https://www.aau.in,22.5645,72.9289
+CLG0375,Assam Agricultural University,Agriculture,Government,NULL,Jorhat,Assam,India,1969,780,Yes,NULL,https://aau.ac.in,26.7509,94.2037
+CLG0376,Bidhan Chandra Krishi Viswavidyalaya,Agriculture,Government,NULL,Nadia,West Bengal,India,1974,500,Yes,NULL,https://www.bckv.edu.in,23.471,88.5565
+CLG0377,Chaudhary Charan Singh Haryana Agricultural University,Agriculture,Government,NULL,Hisar,Haryana,India,1970,1500,Yes,NULL,https://hau.ac.in,29.1492,75.7217
+CLG0378,Dr. Panjabrao Deshmukh Krishi Vidyapeeth,Agriculture,Government,NULL,Akola,Maharashtra,India,1969,600,Yes,NULL,https://pdkv.ac.in,20.7002,77.0082
+CLG0379,Manipal College of Dental Sciences,Dental,Deemed,1,Manipal,Karnataka,India,1962,30,Yes,Yes,https://manipal.edu/mcods-manipal.html,13.3467,74.7869
+CLG0380,Maulana Azad Institute of Dental Sciences,Dental,Government,4,New Delhi,Delhi,India,1968,7,Yes,Yes,https://www.maids.ac.in,28.6139,77.209
+CLG0381,SDM College of Dental Sciences and Hospital,Dental,Private,NULL,Dharwad,Karnataka,India,1985,20,Yes,NULL,https://sdmcds.org,15.4589,75.0078
+CLG0382,A.B. Shetty Memorial Institute of Dental Sciences,Dental,Deemed,NULL,Mangaluru,Karnataka,India,1984,15,Yes,NULL,https://nitte.edu.in,12.9141,74.856
+CLG0383,Saveetha Dental College,Dental,Deemed,2,Chennai,Tamil Nadu,India,2005,20,Yes,NULL,https://saveethadental.com,13.0827,80.2707
+CLG0384,Government Dental College and Hospital Mumbai,Dental,Government,NULL,Mumbai,Maharashtra,India,1946,5,Yes,NULL,https://gdch.maharashtra.gov.in,19.076,72.8777
+CLG0385,Dr. D.Y. Patil Dental College and Hospital,Dental,Private,NULL,Pune,Maharashtra,India,1998,20,Yes,NULL,https://dpu.edu.in,18.5204,73.8567
+CLG0386,Indian Institute of Science,Multidisciplinary,Government,1,Bengaluru,Karnataka,India,1909,443,Yes,Yes,https://www.iisc.ac.in,12.9716,77.5946
+CLG0387,Indian Institute of Science Education and Research Pune,Multidisciplinary,Government,NULL,Pune,Maharashtra,India,2006,100,Yes,Yes,https://www.iiserpune.ac.in,18.5204,73.8567
+CLG0388,Indian Institute of Science Education and Research Kolkata,Multidisciplinary,Government,NULL,Kalyani,West Bengal,India,2006,200,Yes,Yes,https://www.iiserkol.ac.in,22.975,88.434
+CLG0389,Indian Institute of Science Education and Research Mohali,Multidisciplinary,Government,NULL,Mohali,Punjab,India,2007,125,Yes,Yes,https://www.iisermohali.ac.in,30.7046,76.7179
+CLG0390,Indian Institute of Science Education and Research Bhopal,Multidisciplinary,Government,NULL,Bhopal,Madhya Pradesh,India,2008,200,Yes,Yes,https://www.iiserb.ac.in,23.2599,77.4126
+CLG0391,Indian Institute of Science Education and Research Thiruvananthapuram,Multidisciplinary,Government,NULL,Thiruvananthapuram,Kerala,India,2008,110,Yes,Yes,https://www.iisertvm.ac.in,8.5241,76.9366
+CLG0392,Indian Institute of Science Education and Research Tirupati,Multidisciplinary,Government,NULL,Tirupati,Andhra Pradesh,India,2015,150,Yes,Yes,https://www.iisertirupati.ac.in,13.6288,79.4192
+CLG0393,Indian Institute of Science Education and Research Berhampur,Multidisciplinary,Government,NULL,Berhampur,Odisha,India,2016,200,Yes,Yes,https://www.iiserbpr.ac.in,19.3149,84.7941
+CLG0394,National Institute of Science Education and Research,Multidisciplinary,Government,NULL,Bhubaneswar,Odisha,India,2007,372,Yes,Yes,https://www.niser.ac.in,20.2961,85.8245
+CLG0395,Tata Institute of Fundamental Research,Multidisciplinary,Government,NULL,Mumbai,Maharashtra,India,1945,15,Yes,Yes,https://www.tifr.res.in,19.076,72.8777
+CLG0396,Indian Statistical Institute Kolkata,Multidisciplinary,Government,NULL,Kolkata,West Bengal,India,1931,30,Yes,Yes,https://www.isical.ac.in,22.5726,88.3639
+CLG0397,Indian Institute of Space Science and Technology,Engineering,Government,NULL,Thiruvananthapuram,Kerala,India,2007,183,Yes,Yes,https://www.iist.ac.in,8.5241,76.9366
+CLG0398,Indian Institute of Petroleum and Energy,Engineering,Government,NULL,Visakhapatnam,Andhra Pradesh,India,2016,200,Yes,Yes,https://www.iipe.ac.in,17.6868,83.2185
+CLG0399,Physical Research Laboratory,Multidisciplinary,Government,NULL,Ahmedabad,Gujarat,India,1947,NULL,Yes,Yes,https://www.prl.res.in,23.0225,72.5714
+CLG0400,Dhirubhai Ambani Institute of Information and Communication Technology,Engineering,Private,NULL,Gandhinagar,Gujarat,India,2001,80,Yes,Yes,https://www.daiict.ac.in,23.2156,72.6369
+CLG0401,Nirma University,Multidisciplinary,Private,NULL,Ahmedabad,Gujarat,India,2003,110,Yes,Yes,https://www.nirmauni.ac.in,23.0225,72.5714
+CLG0402,Pandit Deendayal Energy University,Engineering,Private,NULL,Gandhinagar,Gujarat,India,2007,52,Yes,Yes,https://www.pdpu.ac.in,23.2156,72.6369
+CLG0403,The LNM Institute of Information Technology,Engineering,Private,NULL,Jaipur,Rajasthan,India,2002,100,Yes,Yes,https://www.lnmiit.ac.in,26.9124,75.7873
+CLG0404,Sathyabama Institute of Science and Technology,Engineering,Deemed,NULL,Chennai,Tamil Nadu,India,1987,32,Yes,Yes,https://www.sathyabama.ac.in,13.0827,80.2707
+CLG0405,Hindustan Institute of Technology and Science,Engineering,Deemed,NULL,Chennai,Tamil Nadu,India,1985,90,Yes,Yes,https://www.hindustanuniv.ac.in,13.0827,80.2707
+CLG0406,Karunya Institute of Technology and Sciences,Engineering,Deemed,NULL,Coimbatore,Tamil Nadu,India,1986,300,Yes,Yes,https://www.karunya.edu,11.0168,76.9558
+CLG0407,Vignan's Foundation for Science Technology and Research,Engineering,Deemed,NULL,Guntur,Andhra Pradesh,India,1997,140,Yes,Yes,https://www.vignan.ac.in,16.3067,80.4365
+CLG0408,GITAM Deemed to be University,Multidisciplinary,Deemed,NULL,Visakhapatnam,Andhra Pradesh,India,1980,948,Yes,Yes,https://www.gitam.edu,17.6868,83.2185
+CLG0409,Koneru Lakshmaiah Education Foundation,Engineering,Deemed,20,Guntur,Andhra Pradesh,India,1980,120,Yes,Yes,https://www.kluniversity.in,16.3067,80.4365
+CLG0410,Presidency University Bengaluru,Multidisciplinary,Private,NULL,Bengaluru,Karnataka,India,2013,20,Yes,NULL,https://presidencyuniversity.in,12.9716,77.5946
+CLG0411,Alliance University,Multidisciplinary,Private,NULL,Bengaluru,Karnataka,India,2010,45,Yes,NULL,https://www.alliance.edu.in,12.9716,77.5946
+CLG0412,Jain (Deemed-to-be University),Multidisciplinary,Deemed,NULL,Bengaluru,Karnataka,India,1990,25,Yes,NULL,https://www.jainuniversity.ac.in,12.9716,77.5946
+CLG0413,REVA University,Multidisciplinary,Private,NULL,Bengaluru,Karnataka,India,2012,45,Yes,NULL,https://www.reva.edu.in,12.9716,77.5946
+CLG0414,New Horizon College of Engineering,Engineering,Private,NULL,Bengaluru,Karnataka,India,2001,10,Yes,NULL,https://www.newhorizonindia.edu,12.9716,77.5946
+CLG0415,Sri Sathya Sai Institute of Higher Learning,Multidisciplinary,Deemed,30,Puttaparthi,Andhra Pradesh,India,1981,500,Yes,Yes,https://www.sssihl.edu.in,14.1667,77.8
+CLG0416,Amity University Rajasthan,Multidisciplinary,Private,NULL,Jaipur,Rajasthan,India,2008,100,Yes,NULL,https://www.amity.edu/jaipur,26.9124,75.7873
+CLG0417,Amity University Gurugram,Multidisciplinary,Private,NULL,Gurugram,Haryana,India,2010,50,Yes,NULL,https://www.amity.edu/gurugram,28.4595,77.0266
+CLG0418,O.P. Jindal Global University,Multidisciplinary,Private,NULL,Sonipat,Haryana,India,2009,80,Yes,Yes,https://jgu.edu.in,28.9931,77.0151
+CLG0419,UPES Dehradun,Engineering,Private,NULL,Dehradun,Uttarakhand,India,2003,105,Yes,NULL,https://www.upes.ac.in,30.3165,78.0322
+CLG0420,Graphic Era Deemed to be University,Engineering,Deemed,NULL,Dehradun,Uttarakhand,India,1993,50,Yes,NULL,https://www.geu.ac.in,30.3165,78.0322
+CLG0421,Sharda University,Multidisciplinary,Private,NULL,Greater Noida,Uttar Pradesh,India,2009,63,Yes,NULL,https://www.sharda.ac.in,28.4744,77.504
+CLG0422,Chitkara University,Engineering,Private,NULL,Rajpura,Punjab,India,2010,150,Yes,NULL,https://www.chitkara.edu.in,30.4844,76.5941
+CLG0423,Kalinga University,Multidisciplinary,Private,NULL,Raipur,Chhattisgarh,India,2013,30,Yes,NULL,https://www.kalingauniversity.ac.in,21.2514,81.6296
+CLG0424,Parul University,Multidisciplinary,Private,NULL,Vadodara,Gujarat,India,2015,150,Yes,NULL,https://paruluniversity.ac.in,22.3072,73.1812
+CLG0425,Manav Rachna International Institute of Research and Studies,Multidisciplinary,Private,NULL,Faridabad,Haryana,India,1997,40,Yes,NULL,https://www.mriu.edu.in,28.4089,77.3178
+CLG0426,K R Mangalam University,Multidisciplinary,Private,NULL,Gurugram,Haryana,India,2013,30,Yes,NULL,https://www.krmangalam.edu.in,28.4595,77.0266
+CLG0427,Vignan University Online,Multidisciplinary,Deemed,NULL,Guntur,Andhra Pradesh,India,1997,140,Yes,NULL,https://www.vignan.ac.in,16.3067,80.4365
+CLG0428,Kasturba Medical College Mangalore,Medical,Deemed,NULL,Mangaluru,Karnataka,India,1955,60,Yes,Yes,https://manipal.edu/kmc-mangalore.html,12.9141,74.856
+CLG0429,M S Ramaiah Medical College,Medical,Private,NULL,Bengaluru,Karnataka,India,1979,25,Yes,NULL,https://msrmc.ramaiah.edu.in,12.9716,77.5946
+CLG0430,JSS Medical College,Medical,Deemed,NULL,Mysuru,Karnataka,India,1984,45,Yes,NULL,https://jssuni.edu.in,12.2958,76.6394
+CLG0431,Kempegowda Institute of Medical Sciences,Medical,Private,NULL,Bengaluru,Karnataka,India,1980,25,Yes,NULL,https://www.kimsbangaloreedu.in,12.9716,77.5946
+CLG0432,Yenepoya Medical College,Medical,Deemed,NULL,Mangaluru,Karnataka,India,1997,30,Yes,NULL,https://yenepoya.edu.in,12.9141,74.856
+CLG0433,Father Muller Medical College,Medical,Private,NULL,Mangaluru,Karnataka,India,1969,20,Yes,NULL,https://fathermuller.in,12.9141,74.856
+CLG0434,Krishna Institute of Medical Sciences,Medical,Deemed,NULL,Karad,Maharashtra,India,1990,100,Yes,NULL,https://kimskarad.edu.in,17.2892,74.1815
+CLG0435,SRM Medical College Hospital and Research Centre,Medical,Deemed,NULL,Chennai,Tamil Nadu,India,2001,50,Yes,NULL,https://www.srmist.edu.in,13.0827,80.2707
+CLG0436,Sri Ramachandra Institute of Higher Education and Research,Medical,Deemed,NULL,Chennai,Tamil Nadu,India,1985,180,Yes,Yes,https://sriramachandra.edu.in,13.0827,80.2707
+CLG0437,Kalinga Institute of Medical Sciences,Medical,Deemed,NULL,Bhubaneswar,Odisha,India,1992,25,Yes,NULL,https://kims.kiit.ac.in,20.2961,85.8245
+CLG0438,Hamdard Institute of Medical Sciences and Research,Medical,Deemed,NULL,New Delhi,Delhi,India,2013,52,Yes,NULL,https://jamiahamdard.edu.in,28.6139,77.209
+CLG0439,Government Medical College Amritsar,Medical,Government,NULL,Amritsar,Punjab,India,1860,25,Yes,NULL,https://gmcamritsar.edu.in,31.634,74.8723
+CLG0440,Government Medical College Patiala,Medical,Government,NULL,Patiala,Punjab,India,1953,25,Yes,NULL,https://gmcpatiala.edu.in,30.3398,76.3869
+CLG0441,Dayanand Medical College and Hospital,Medical,Private,NULL,Ludhiana,Punjab,India,1934,30,Yes,NULL,https://www.dmch.in,30.901,75.8573
+CLG0442,Dr. D.Y. Patil Medical College Pune,Medical,Private,NULL,Pune,Maharashtra,India,1996,20,Yes,NULL,https://dpu.edu.in,18.5204,73.8567
+CLG0443,Bharati Vidyapeeth Medical College Pune,Medical,Deemed,NULL,Pune,Maharashtra,India,1989,20,Yes,NULL,https://bharatividyapeeth.edu,18.5204,73.8567
+CLG0444,Government Medical College Surat,Medical,Government,NULL,Surat,Gujarat,India,1965,25,Yes,NULL,https://gmcsurat.edu.in,21.1702,72.8311
+CLG0445,Symbiosis Law School Pune,Law,Deemed,NULL,Pune,Maharashtra,India,1977,10,Yes,NULL,https://www.symlaw.ac.in,18.5204,73.8567
+CLG0446,ILS Law College,Law,Government-Aided,NULL,Pune,Maharashtra,India,1924,5,Yes,NULL,https://ilslaw.edu,18.5204,73.8567
+CLG0447,Government Law College Mumbai,Law,Government,NULL,Mumbai,Maharashtra,India,1855,5,Yes,NULL,https://glc.edu.in,19.076,72.8777
+CLG0448,Faculty of Law University of Delhi,Law,Government,NULL,New Delhi,Delhi,India,1924,15,Yes,NULL,https://www.lawfaculty.du.ac.in,28.6139,77.209
+CLG0449,Jindal Global Law School,Law,Private,NULL,Sonipat,Haryana,India,2009,80,Yes,Yes,https://jgls.jgu.edu.in,28.9931,77.0151
+CLG0450,Cummins College of Engineering for Women,Engineering,Private,NULL,Pune,Maharashtra,India,1991,10,Yes,NULL,https://cumminscollege.in,18.5204,73.8567
+CLG0451,Walchand College of Engineering,Engineering,Government-Aided,NULL,Sangli,Maharashtra,India,1947,50,Yes,NULL,https://walchandsangli.ac.in,16.8524,74.5815
+CLG0452,Government College of Engineering Pune,Engineering,Government,NULL,Pune,Maharashtra,India,1854,60,Yes,NULL,https://www.coep.org.in,18.5204,73.8567
+CLG0453,Sant Longowal Institute of Engineering and Technology,Engineering,Government,NULL,Sangrur,Punjab,India,1989,168,Yes,Yes,https://www.sliet.ac.in,30.2458,75.8421
+CLG0454,Rajiv Gandhi Institute of Petroleum Technology,Engineering,Government,NULL,Amethi,Uttar Pradesh,India,2016,209,Yes,Yes,https://www.rgipt.ac.in,26.1552,81.8168
+CLG0455,Institute of Infrastructure Technology Research and Management,Engineering,Government,NULL,Ahmedabad,Gujarat,India,2013,50,Yes,NULL,https://iitram.ac.in,23.0225,72.5714
+CLG0456,Central Institute of Technology Kokrajhar,Engineering,Government,NULL,Kokrajhar,Assam,India,2006,140,Yes,Yes,https://www.cit.ac.in,26.401,90.2718
+CLG0457,Indian Institute of Carpet Technology,Engineering,Government,NULL,Bhadohi,Uttar Pradesh,India,1998,20,Yes,NULL,https://iict.ac.in,25.3961,82.5686
+CLG0458,Symbiosis College of Arts and Commerce,Commerce,Deemed,NULL,Pune,Maharashtra,India,1966,10,Yes,NULL,https://www.scac.ac.in,18.5204,73.8567
+CLG0459,Christ College of Commerce,Commerce,Deemed,34,Bengaluru,Karnataka,India,1969,55,Yes,Yes,https://christuniversity.in,12.9716,77.5946
+CLG0460,Guru Nanak College,Arts & Science,Government-Aided,NULL,Chennai,Tamil Nadu,India,1971,20,Yes,NULL,https://www.gurunanakcollege.edu.in,13.0827,80.2707
+CLG0461,PSGR Krishnammal College for Women,Arts & Science,Private,NULL,Coimbatore,Tamil Nadu,India,1957,30,Yes,NULL,https://psgrkcw.ac.in,11.0168,76.9558
+CLG0462,Sri Sri University,Multidisciplinary,Private,NULL,Cuttack,Odisha,India,2012,185,Yes,NULL,https://srisriuniversity.edu.in,20.4625,85.8828
+CLG0463,National Institute of Fashion Technology New Delhi,Design,Government,NULL,New Delhi,Delhi,India,1986,10,Yes,Yes,https://www.nift.ac.in,28.6139,77.209
+CLG0464,National Institute of Fashion Technology Mumbai,Design,Government,NULL,Mumbai,Maharashtra,India,1995,6,Yes,Yes,https://www.nift.ac.in,19.076,72.8777
+CLG0465,National Institute of Fashion Technology Bengaluru,Design,Government,NULL,Bengaluru,Karnataka,India,1995,10,Yes,Yes,https://www.nift.ac.in,12.9716,77.5946
+CLG0466,National Institute of Fashion Technology Kolkata,Design,Government,NULL,Kolkata,West Bengal,India,1997,7,Yes,Yes,https://www.nift.ac.in,22.5726,88.3639
+CLG0467,National Institute of Fashion Technology Chennai,Design,Government,NULL,Chennai,Tamil Nadu,India,1997,8,Yes,Yes,https://www.nift.ac.in,13.0827,80.2707
+CLG0468,National Institute of Design Ahmedabad,Design,Government,1,Ahmedabad,Gujarat,India,1961,15,Yes,Yes,https://www.nid.edu,23.0225,72.5714
+CLG0469,Film and Television Institute of India,Media,Government,NULL,Pune,Maharashtra,India,1960,20,Yes,NULL,https://www.ftii.ac.in,18.5204,73.8567
+CLG0470,National School of Drama,Media,Government,NULL,New Delhi,Delhi,India,1959,2,Yes,NULL,https://www.nsd.gov.in,28.6139,77.209
+CLG0471,Indian Institute of Mass Communication,Media,Government,NULL,New Delhi,Delhi,India,1965,10,Yes,NULL,https://iimc.gov.in,28.6139,77.209
+CLG0472,Satyajit Ray Film and Television Institute,Media,Government,NULL,Kolkata,West Bengal,India,1995,10,Yes,NULL,https://www.srfti.ac.in,22.5726,88.3639
+CLG0473,Indian Veterinary Research Institute,Veterinary,Government,NULL,Bareilly,Uttar Pradesh,India,1889,450,Yes,Yes,https://www.ivri.nic.in,28.367,79.4304
+CLG0474,Institute of Hotel Management Catering Technology and Applied Nutrition Mumbai,Hospitality,Government,NULL,Mumbai,Maharashtra,India,1954,5,Yes,NULL,https://www.ihmctan.edu,19.076,72.8777
+CLG0475,Institute of Hotel Management Delhi,Hospitality,Government,NULL,New Delhi,Delhi,India,1962,10,Yes,NULL,https://ihmdelhi.org,28.6139,77.209
+CLG0476,Welcomgroup Graduate School of Hotel Administration,Hospitality,Deemed,NULL,Manipal,Karnataka,India,1988,25,Yes,NULL,https://manipal.edu/wgsha.html,13.3467,74.7869
+CLG0477,Baba Farid University of Health Sciences,Medical,Government,NULL,Faridkot,Punjab,India,1998,50,Yes,NULL,https://bfuhs.ac.in,30.6742,74.7554
+CLG0478,Rajiv Gandhi University of Health Sciences,Medical,Government,NULL,Bengaluru,Karnataka,India,1996,20,Yes,NULL,https://www.rguhs.ac.in,12.9716,77.5946
+CLG0479,Dr. NTR University of Health Sciences,Medical,Government,NULL,Vijayawada,Andhra Pradesh,India,1986,30,Yes,NULL,https://ntruhs.ap.nic.in,16.5062,80.648
+CLG0480,The Tamil Nadu Dr. M.G.R. Medical University,Medical,Government,NULL,Chennai,Tamil Nadu,India,1987,20,Yes,NULL,https://www.tnmgrmu.ac.in,13.0827,80.2707
+CLG0481,Maharashtra University of Health Sciences,Medical,Government,NULL,Nashik,Maharashtra,India,1998,50,Yes,NULL,https://www.muhsnashik.mu.ac.in,19.9975,73.7898
+CLG0482,Kerala University of Health Sciences,Medical,Government,NULL,Thrissur,Kerala,India,2010,25,Yes,NULL,https://kuhs.ac.in,10.5276,76.2144
+CLG0483,Guru Jambheshwar University of Science and Technology,Multidisciplinary,Government,NULL,Hisar,Haryana,India,1995,650,Yes,NULL,https://gjust.ac.in,29.1492,75.7217
+CLG0484,PSG Institute of Technology and Applied Research,Engineering,Private,NULL,Coimbatore,Tamil Nadu,India,2015,50,Yes,NULL,https://www.psgitech.ac.in,11.0168,76.9558
+CLG0485,Sri Krishna College of Engineering and Technology,Engineering,Private,NULL,Coimbatore,Tamil Nadu,India,1998,45,Yes,NULL,https://skcet.ac.in,11.0168,76.9558
+CLG0486,Meenakshi Sundararajan Engineering College,Engineering,Private,NULL,Chennai,Tamil Nadu,India,1996,10,Yes,NULL,https://msec.edu.in,13.0827,80.2707
+CLG0487,Rajalakshmi Engineering College,Engineering,Private,NULL,Chennai,Tamil Nadu,India,1997,37,Yes,NULL,https://www.rajalakshmi.org,13.0827,80.2707
+CLG0488,Panimalar Engineering College,Engineering,Private,NULL,Chennai,Tamil Nadu,India,2002,25,Yes,NULL,https://www.panimalar.ac.in,13.0827,80.2707
+CLG0489,Vidyavardhaka College of Engineering,Engineering,Private,NULL,Mysuru,Karnataka,India,1990,25,Yes,NULL,https://www.vvce.ac.in,12.2958,76.6394
+CLG0490,National Institute of Engineering,Engineering,Private,NULL,Mysuru,Karnataka,India,1946,15,Yes,NULL,https://www.nie.ac.in,12.2958,76.6394
+CLG0491,Siddaganga Institute of Technology,Engineering,Private,NULL,Tumakuru,Karnataka,India,1963,50,Yes,NULL,https://www.sit.ac.in,13.3392,77.1139
+CLG0492,B.M.S. Institute of Technology and Management,Engineering,Private,NULL,Bengaluru,Karnataka,India,2002,15,Yes,NULL,https://bmsit.ac.in,12.9716,77.5946
+CLG0493,Acharya Institute of Technology,Engineering,Private,NULL,Bengaluru,Karnataka,India,2000,120,Yes,NULL,https://www.acharya.ac.in,12.9716,77.5946
+CLG0494,Sri Jayachamarajendra College of Engineering,Engineering,Government,NULL,Mysuru,Karnataka,India,1963,52,Yes,NULL,https://sjce.ac.in,12.2958,76.6394
+CLG0495,K.L.E. Technological University,Engineering,Deemed,NULL,Hubballi,Karnataka,India,1986,25,Yes,NULL,https://www.kletech.ac.in,15.3647,75.124
+CLG0496,Government Engineering College Thrissur,Engineering,Government,NULL,Thrissur,Kerala,India,1957,25,Yes,NULL,https://www.getthrissur.ac.in,10.5276,76.2144
+CLG0497,College of Engineering Trivandrum,Engineering,Government,NULL,Thiruvananthapuram,Kerala,India,1939,42,Yes,NULL,https://cet.ac.in,8.5241,76.9366
+CLG0498,Rajagiri School of Engineering and Technology,Engineering,Private,NULL,Kochi,Kerala,India,2001,25,Yes,NULL,https://www.rajagiritech.ac.in,9.9312,76.2673
+CLG0499,Toc H Institute of Science and Technology,Engineering,Private,NULL,Kochi,Kerala,India,2002,25,Yes,NULL,https://www.toch.ac.in,9.9312,76.2673
+CLG0500,Mar Athanasius College of Engineering,Engineering,Government-Aided,NULL,Kothamangalam,Kerala,India,1961,60,Yes,NULL,https://mace.ac.in,10.0596,76.6274

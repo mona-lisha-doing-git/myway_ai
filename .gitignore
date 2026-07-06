@@ -1,36 +1,15 @@
-# Python
 __pycache__/
-*.py[cod]
-*.egg-info/
-__init__.py
-
-# Virtual environments
+*.pyc
 .venv/
 venv/
-env/
 
-# Environment variables
+.pnpm-store/
+frontend/node_modules/
+frontend/dist/
+
 .env
+.vscode
+.adk
 
-# IDE
-.vscode/
-.idea/
+__init__.py
 
-# macOS
-.DS_Store
-
-# Logs
-*.log
-
-# pytest
-.pytest_cache/
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Build
-build/
-dist/
-
-# adk
-.adk/
