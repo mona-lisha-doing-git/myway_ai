@@ -16,7 +16,10 @@ import {
 } from "lucide-react";
 import "./styles.css";
 
-const API_BASE = import.meta.env.VITE_API_BASE_URL || "http://127.0.0.1:8000";
+const API_BASE =
+  window.__MYWAY_CONFIG__?.apiBaseUrl ||
+  import.meta.env.VITE_API_BASE_URL ||
+  "http://127.0.0.1:8000";
 
 const initialPreferences = {
   state: "",

@@ -104,14 +104,21 @@ def generate_explanation(
             "relaxing the rank filter, or broadening the state/course preference."
         )
 
-    api_key = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
-    if not api_key:
-        return _fallback_explanation(recommendations)
-
     try:
         from google import genai
 
-        client = genai.Client(api_key=api_key)
+        if os.getenv("GOOGLE_GENAI_USE_VERTEXAI", "").lower() == "true":
+            client = genai.Client(
+                vertexai=True,
+                project=os.getenv("GOOGLE_CLOUD_PROJECT"),
+                location=os.getenv("GOOGLE_CLOUD_LOCATION", "global"),
+            )
+        else:
+            api_key = os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
+            if not api_key:
+                return _fallback_explanation(recommendations)
+            client = genai.Client(api_key=api_key)
+
         model = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
         prompt = (
             "You are MyWay AI, a college decision intelligence assistant. "
