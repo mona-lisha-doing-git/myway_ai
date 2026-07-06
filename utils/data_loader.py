@@ -1,26 +1,21 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from pathlib import Path
 from typing import Any
 
 import pandas as pd
 
-try:
-    import cudf  # type: ignore
-except Exception:  # pragma: no cover - depends on GPU/RAPIDS runtime
-    cudf = None
-
-
-DATA_DIR = Path(__file__).resolve().parents[1] / "data"
+from utils.bigquery_client import BigQueryDataClient
+from utils.bigquery_config import BigQueryConfig
+from utils.bigquery_queries import dataset_table, select_table_query
 
 
 @dataclass(frozen=True)
 class DatasetBundle:
-    colleges: Any
-    courses: Any
-    placements: Any
-    cutoffs: Any
+    colleges: pd.DataFrame
+    courses: pd.DataFrame
+    placements: pd.DataFrame
+    cutoffs: pd.DataFrame
     backend: str
 
 
@@ -33,28 +28,32 @@ def _normalize_columns(frame: Any) -> Any:
     return frame
 
 
-def _read_csv(path: Path, use_gpu: bool) -> Any:
-    if use_gpu and cudf is not None:
-        return cudf.read_csv(path)
-    return pd.read_csv(path, na_values=["NULL", "null", ""])
+def load_datasets(config: BigQueryConfig | None = None) -> DatasetBundle:
+    active_config = config or BigQueryConfig.from_env()
+    client = BigQueryDataClient(active_config)
 
-
-def load_datasets(data_dir: Path | str = DATA_DIR, prefer_gpu: bool = True) -> DatasetBundle:
-    base_path = Path(data_dir)
-    use_gpu = prefer_gpu and cudf is not None
-
-    colleges = _normalize_columns(_read_csv(base_path / "colleges.csv", use_gpu))
-    courses = _normalize_columns(_read_csv(base_path / "courses.csv", use_gpu))
-    placements = _normalize_columns(_read_csv(base_path / "placements.csv", use_gpu))
-    cutoffs = _normalize_columns(_read_csv(base_path / "cutoffs.csv", use_gpu))
+    colleges = _fetch_table(client, active_config, active_config.colleges_table)
+    courses = _fetch_table(client, active_config, active_config.courses_table)
+    placements = _fetch_table(client, active_config, active_config.placements_table)
+    cutoffs = _fetch_table(client, active_config, active_config.cutoffs_table)
 
     return DatasetBundle(
         colleges=colleges,
         courses=courses,
         placements=placements,
         cutoffs=cutoffs,
-        backend="cudf" if use_gpu else "pandas",
+        backend="bigquery",
     )
+
+
+def _fetch_table(
+    client: BigQueryDataClient,
+    config: BigQueryConfig,
+    table_name: str,
+) -> pd.DataFrame:
+    table = dataset_table(config, table_name)
+    query = select_table_query(table, row_limit=config.row_limit)
+    return _normalize_columns(client.fetch_dataframe(query))
 
 
 def to_pandas(frame: Any) -> pd.DataFrame:

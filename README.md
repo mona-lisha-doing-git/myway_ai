@@ -2,7 +2,7 @@
 
 MyWay AI is an AI-powered decision intelligence platform designed to help students make smarter and faster college admission decisions. Instead of manually comparing colleges across multiple websites, MyWay AI analyzes structured educational data using GPU-accelerated analytics and intelligent ranking algorithms to recommend the most suitable colleges based on a student's preferences.
 
-The platform leverages **Google Gemini**, **Google Agent Development Kit (ADK)**, **FastAPI**, and **NVIDIA RAPIDS cuDF** to provide personalized recommendations along with natural language explanations that help students understand why a particular college is recommended.
+The platform leverages **Google Gemini**, **Google Agent Development Kit (ADK)**, **FastAPI**, and **Google BigQuery** to provide personalized recommendations along with natural language explanations that help students understand why a particular college is recommended.
 
 ---
 
@@ -21,7 +21,7 @@ The platform combines GPU-accelerated data analytics, intelligent ranking algori
 - AI-powered college recommendation system
 - Intelligent filtering based on student preferences
 - Weighted ranking algorithm for better decision making
-- GPU-accelerated data processing using NVIDIA RAPIDS cuDF
+- BigQuery-backed data access for scalable cloud analytics
 - Natural language explanations powered by Google Gemini
 - FastAPI backend APIs
 - React-based responsive user interface
@@ -49,10 +49,11 @@ The platform combines GPU-accelerated data analytics, intelligent ranking algori
 
 ## Data Processing & Analytics
 
-- NVIDIA RAPIDS
-- cuDF for GPU-accelerated data loading, cleaning, merging, and filtering
+- Google BigQuery
+- Official `google-cloud-bigquery` Python client
+- Environment-variable-based authentication using Application Default Credentials or a service account key
 
-Structured CSV datasets containing:
+Structured BigQuery tables containing:
 
 - College information
 - Courses
@@ -66,7 +67,7 @@ Structured CSV datasets containing:
 ```
 Prepared Dataset
         ↓
-NVIDIA cuDF
+Google BigQuery
         ↓
 Data Cleaning & Merging
         ↓
@@ -96,7 +97,7 @@ Recommendation Agent (Google ADK)
       ↓
 Recommendation Engine
       ↓
-NVIDIA cuDF
+Google BigQuery
       ↓
 Merged Educational Dataset
       ↓
@@ -122,15 +123,12 @@ myway_ai/
 │   └── study_planner_agent.py
 │
 ├── utils/
+│   ├── bigquery_client.py
+│   ├── bigquery_config.py
+│   ├── bigquery_queries.py
 │   ├── recommendation_engine.py
 │   ├── data_loader.py
 │   └── ranking.py
-│
-├── data/
-│   ├── colleges.csv
-│   ├── courses.csv
-│   ├── cutoffs.csv
-│   └── placements.csv
 │
 ├── frontend/
 │
@@ -187,14 +185,14 @@ Each factor contributes to a weighted score that determines the final recommenda
 
 # Dataset
 
-The recommendation engine currently uses structured CSV datasets:
+The recommendation engine reads structured BigQuery tables:
 
 - Colleges
 - Courses
 - Admission Cutoffs
 - Placement Statistics
 
-These datasets are cleaned, merged, and processed using NVIDIA RAPIDS cuDF before applying filtering and ranking algorithms.
+These tables are fetched through reusable BigQuery access modules, normalized into dataframes, merged, filtered, and ranked using the existing recommendation logic.
 
 ---
 
@@ -249,7 +247,23 @@ Create a `.env` file in the project root.
 Example:
 
 ```env
-GOOGLE_API_KEY=YOUR_GEMINI_API_KEY
+GOOGLE_CLOUD_PROJECT=myway-ai-501316
+BIGQUERY_DATASET=myway_ai
+BIGQUERY_LOCATION=asia-south1
+
+# Optional local service-account key. Prefer Cloud Run service identity in production.
+# GOOGLE_APPLICATION_CREDENTIALS=/absolute/path/to/service-account.json
+
+# Optional table overrides. Defaults are colleges, courses, placements, cutoffs.
+BIGQUERY_COLLEGES_TABLE=colleges
+BIGQUERY_COURSES_TABLE=courses
+BIGQUERY_PLACEMENTS_TABLE=placements
+BIGQUERY_CUTOFFS_TABLE=cutoffs
+
+# Optional Gemini configuration.
+GOOGLE_GENAI_USE_VERTEXAI=true
+GOOGLE_CLOUD_LOCATION=global
+GEMINI_MODEL=gemini-2.5-flash
 ```
 
 ---
@@ -284,7 +298,6 @@ npm run dev
 
 # Future Improvements
 
-- BigQuery integration
 - Real-time admission cutoffs
 - Live placement statistics
 - Scholarship recommendation system
@@ -306,7 +319,7 @@ The application is designed to be deployed using:
 - Google ADK
 - React Frontend
 
-Future deployments can replace CSV datasets with BigQuery for scalable cloud-based data management.
+The backend uses BigQuery for scalable cloud-based data management.
 
 ---
 

@@ -5,13 +5,14 @@ from typing import Any
 
 import pandas as pd
 
-from utils.data_loader import DATA_DIR, load_datasets, to_pandas
+from utils.bigquery_config import BigQueryConfig
+from utils.data_loader import load_datasets, to_pandas
 from utils.ranking import rank_recommendations
 
 
 class RecommendationEngine:
-    def __init__(self, data_dir=DATA_DIR, prefer_gpu: bool = True):
-        bundle = load_datasets(data_dir=data_dir, prefer_gpu=prefer_gpu)
+    def __init__(self, config: BigQueryConfig | None = None, **_legacy_options: Any):
+        bundle = load_datasets(config=config)
         self.backend = bundle.backend
         self.colleges = to_pandas(bundle.colleges)
         self.courses = to_pandas(bundle.courses)

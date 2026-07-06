@@ -1,4 +1,12 @@
+import os
+
 from utils.recommendation_engine import RecommendationEngine
+
+if not os.getenv("BIGQUERY_DATASET"):
+    raise SystemExit(
+        "Set BIGQUERY_DATASET and GOOGLE_CLOUD_PROJECT or BIGQUERY_PROJECT_ID "
+        "before running the BigQuery recommendation smoke test."
+    )
 
 engine = RecommendationEngine()
 

@@ -4,3 +4,5 @@ pandas
 pydantic
 google-adk
 google-genai
+google-cloud-bigquery[pandas]
+db-dtypes
